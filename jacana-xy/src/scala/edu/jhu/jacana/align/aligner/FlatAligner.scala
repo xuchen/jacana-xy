@@ -159,7 +159,7 @@ object FlatAligner {
         
         if (aligner.alignFilename != null) {
 			val s = System.nanoTime
-            val total_align = aligner.decode(aligner.alignFilename, aligner.outputFilename)
+            val total_align = aligner.decode(aligner.alignFilename, aligner.outputFilename, aligner.alignFilename2)
 			val speed_in_ms = (System.nanoTime - s) *1.0/ total_align / 1e6
 			val speed_in_num = 1000.0 / speed_in_ms
 			println(f"Decoding time: $speed_in_ms%.2f ms per alignment ($speed_in_num%.2f alignments per seconds)")

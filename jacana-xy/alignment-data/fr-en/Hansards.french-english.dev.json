@@ -1,0 +1,298 @@
+[
+    {
+        "id": "1001",
+        "name": "Hansards.french-english.1001",
+        "possibleAlign": "1-1 2-2 3-2 4-2 16-14 17-15 14-16 17-16 18-17 19-17 20-17 26-18 27-18 22-23 22-24 26-26 27-26",
+        "source": "chacun en lui - même est très complexe et le lien entre les deux le est encore davantage de sorte que pour beaucoup la situation présente est confuse .",
+        "sureAlign": "0-0 5-3 6-4 7-5 9-8 10-9 11-10 12-11 13-12 15-13 23-19 24-21 21-22 28-27",
+        "target": "each of them is very complex , but the link between the two is even more complex which makes the whole situation for most people understandably confusing ."
+    },
+    {
+        "id": "1002",
+        "name": "Hansards.french-english.1002",
+        "possibleAlign": "9-0 0-0 1-0 2-0 3-0 4-0 5-0 6-0 7-0 0-1 1-1 2-1 3-1 4-1 5-1 6-1 7-1 8-1 9-2 0-2 1-2 2-2 3-2 4-2 5-2 6-2 7-2 8-2 9-3 0-3 1-3 2-3 3-3 4-3 5-3 6-3 7-3 8-3",
+        "source": "je poursuis la lecture de les recommandations de les commissaires :",
+        "sureAlign": "8-0 9-1 10-4",
+        "target": "the commissionners went on :"
+    },
+    {
+        "id": "1003",
+        "name": "Hansards.french-english.1003",
+        "possibleAlign": "9-5 7-5 8-5 9-6 7-6 8-6 9-7 7-7 8-7 10-8 10-9 10-10 19-18 21-18 19-20 21-20",
+        "source": "ils sont restreints par certaines limites qui ont été fixées pour garantir que la liberté de une personne ne empiète pas sur celle de une autre .",
+        "sureAlign": "0-0 1-1 2-2 3-3 5-4 6-5 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-19 20-19 22-21 23-22 24-23 25-23 26-24",
+        "target": "they are constrained by limits which are imposed in order to ensure that the freedom of one person does not violate that of another ."
+    },
+    {
+        "id": "1004",
+        "name": "Hansards.french-english.1004",
+        "possibleAlign": "5-0 6-0 7-0 2-1 14-3 5-3 6-3 7-3 14-4 5-4 6-4 7-4 14-5 15-6 15-7 9-12 10-12 11-12 10-13 11-13 8-13 9-14 10-14 11-14 8-14 9-15 10-15 11-15 8-15 9-16 10-16 11-16 8-16",
+        "source": "il ne a fait que rendre légal , à toutes fins utiles , le commerce sexuel dans nos rues .",
+        "sureAlign": "0-0 3-1 13-2 16-8 17-9 18-10 6-11 8-12 9-13 19-17",
+        "target": "it made the buying and selling of sex on our streets legal for all intents and purposes ."
+    },
+    {
+        "id": "1005",
+        "name": "Hansards.french-english.1005",
+        "possibleAlign": "10-0 11-0 8-0 9-1 10-1 11-1 8-1 9-2 10-2 11-2 8-2 9-3 10-3 8-3 0-4 1-4 2-4 3-4 13-8 14-8 13-9 14-9 13-10 14-10 18-12 19-12 20-12 19-13 20-13 18-14 19-14 20-14 18-15 19-15 20-15",
+        "source": "le projet de loi C - 49 , de la façon dont il est présenté aujourd' hui , nous fait sentir que seules les prostituées sont punies et stigmatisées .",
+        "sureAlign": "9-0 11-3 4-5 5-6 6-7 15-11 16-11 18-13 21-16 22-17 23-18 24-19 25-20 26-21 27-22 28-23 29-24",
+        "target": "the way in which Bill C - 49 has been presented today gives us the feeling that only the prostitutes are punished and stigmatized ."
+    },
+    {
+        "id": "1006",
+        "name": "Hansards.french-english.1006",
+        "possibleAlign": "2-2 4-2 8-4 12-8 13-8 14-8 15-8 12-9 13-9 14-9 15-9 12-10 13-10 14-10 15-10",
+        "source": "je ne ai jamais rencontré une seule prostituée de rue qui voulait exercer un tel métier .",
+        "sureAlign": "0-0 1-1 3-1 5-3 9-4 7-5 10-6 11-7 16-11",
+        "target": "I never met a street hooker who wanted to be there ."
+    },
+    {
+        "id": "1007",
+        "name": "Hansards.french-english.1007",
+        "possibleAlign": "12-10 13-10 14-10 12-11 13-11 14-11 0-12",
+        "source": "le 28 juin , je ai eu le grand plaisir , avec de autres députés , de voir créer le comité permanent .",
+        "sureAlign": "19-3 21-4 20-5 2-13 1-14 3-15 22-21",
+        "target": "the establishment of the standing committee by unanimous consent of the House on June 28 , 1985 has already been noted ."
+    },
+    {
+        "id": "1008",
+        "name": "Hansards.french-english.1008",
+        "possibleAlign": "3-1 2-2 3-2 1-3 1-4 5-6 11-11",
+        "source": "je le ai cité comme exemple de propriété publique créatrice , dynamique et efficace .",
+        "sureAlign": "0-0 2-1 4-5 5-7 6-8 9-9 10-10 13-12 8-13 7-14 14-15",
+        "target": "I have stressed the CDC as an example of creative , aggressive effective public ownership ."
+    },
+    {
+        "id": "1011",
+        "name": "Hansards.french-english.1011",
+        "possibleAlign": "0-0 1-0 0-1 1-1 3-3 4-3 9-8 15-14 19-14 20-14 16-15 20-17 21-17 22-17 23-17 24-17 25-17 26-17 27-17 20-18 21-18 22-18 23-18 25-18 26-18 27-18 11-19 20-19 21-19 22-19 23-19 24-19 25-19 26-19 27-19",
+        "source": "jusque ici , près de $ 250,000 ont été octroyés par le institut en subventions à la recherche ou à de les programmes de éducation de le public .",
+        "sureAlign": "2-2 5-4 6-5 7-6 8-7 10-9 11-10 12-11 13-12 14-13 17-15 18-16 24-18 28-20",
+        "target": "so far , around $ 250,000 have been issued by the institute in grants for research or public education activity ."
+    },
+    {
+        "id": "1012",
+        "name": "Hansards.french-english.1012",
+        "possibleAlign": "0-0 1-0 2-0 0-1 1-1 2-1 3-2",
+        "source": "permettez - moi de conclure .",
+        "sureAlign": "4-2 5-3",
+        "target": "let me conclude ."
+    },
+    {
+        "id": "1013",
+        "name": "Hansards.french-english.1013",
+        "possibleAlign": "0-0 1-0 0-1 1-1 0-2 1-2 0-3 1-3 2-4 3-4 2-5 3-5 2-6 3-6 2-7 3-7 2-8 3-8 7-11 6-12 7-12 9-13 10-13 11-13 12-13 13-13 9-14 10-14 11-14 13-14 8-14 9-15 10-15 11-15 12-15 8-15 9-16 10-16 11-16 12-16 13-16 8-16 9-17 11-17 12-17 13-17 8-17 9-18 10-18 11-18 12-18 13-18 8-18 9-19 10-19 11-19 12-19 13-19 8-19 17-21 18-21 19-21 20-21 21-21 22-21 17-22 18-22 19-22 20-22 21-22 22-22 17-23 18-23 19-23 20-23 21-23 22-23 17-24 18-24 19-24 20-24 21-24 22-24",
+        "source": "il faudrait examiner sérieusement cette raison pour voir si ce est rentable ou non et si cela sert les intérêts de le public .",
+        "sureAlign": "4-9 5-10 6-11 8-13 12-14 13-15 10-17 14-20 23-25",
+        "target": "I think we should take a hard look at this justification to determine whether or not it is cost effective and in the public interest ."
+    },
+    {
+        "id": "1014",
+        "name": "Hansards.french-english.1014",
+        "possibleAlign": "0-2 1-2 2-2 3-2 5-2 6-2 7-2 0-3 1-3 2-3 3-3 5-3 6-3 7-3 0-4 1-4 2-4 3-4 5-4 6-4 7-4 0-5 1-5 2-5 3-5 5-5 6-5 7-5 0-6 1-6 2-6 3-6 5-6 6-6 7-6 0-7 1-7 2-7 3-7 5-7 6-7 7-7 11-8 12-8 13-8 15-9 16-9 17-9 14-10 15-10 16-10 17-10 14-11 15-11 16-11 17-11 14-12 15-12 16-12 17-12 19-17",
+        "source": "il y a lieu cependant de se interroger sur le avenir en raison de les mesures de austérité annoncées ce printemps dans le budget .",
+        "sureAlign": "4-0 14-9 18-13 21-14 22-15 23-16 20-18 24-19",
+        "target": "however , that raises some very pertinent questions given the cut - backs announced in the Budget last spring ."
+    },
+    {
+        "id": "1015",
+        "name": "Hansards.french-english.1015",
+        "possibleAlign": "1-3 2-3 3-3 1-4 2-4 3-4 4-5 6-5 4-6 6-6",
+        "source": "le droit de permis passe donc de $ 25 à $ 500 .",
+        "sureAlign": "0-2 6-7 7-8 8-9 9-10 10-11 11-12 12-13",
+        "target": "we see the licence fee going up from $ 25 to $ 500 ."
+    },
+    {
+        "id": "1016",
+        "name": "Hansards.french-english.1016",
+        "possibleAlign": "9-10 7-10 8-10 9-11 7-11 8-11 9-12 7-12 8-12 9-13 7-13 8-13 12-14 13-14 14-14 15-14 12-15 13-15 14-15 15-15 17-16",
+        "source": "il aurait été facile de dire que il faut appliquer ces sanctions à le lieu de les rendre facultatives .",
+        "sureAlign": "0-0 1-1 1-2 2-3 3-4 4-5 5-6 6-7 10-8 11-9 16-17 18-18 19-19",
+        "target": "it would have been easy to say that these sanctions have to be followed rather than making them voluntary ."
+    },
+    {
+        "id": "1017",
+        "name": "Hansards.french-english.1017",
+        "possibleAlign": "1-2 2-2 3-2 4-2 5-2 6-2 2-3 3-3 4-3 5-3 6-3 9-4 6-5 7-5 14-10 14-11",
+        "source": "nous devons mettre à le point de les programmes efficaces de réadaptation dans nos prisons .",
+        "sureAlign": "0-0 1-1 8-5 10-6 11-7 12-8 13-9 15-12",
+        "target": "we have to introduce meaningful programs for rehabilitation within our prison system ."
+    },
+    {
+        "id": "1018",
+        "name": "Hansards.french-english.1018",
+        "possibleAlign": "0-0 1-0 2-0 3-0 4-0 0-1 1-1 2-1 3-1 4-1 0-2 1-2 2-2 3-2 4-2 0-3 1-3 2-3 3-3 4-3 0-4 1-4 2-4 3-4 4-4 9-5 10-5 11-5 12-5 5-5 6-5 7-5 8-5 9-6 10-6 11-6 12-6 5-6 6-6 7-6 8-6 9-7 10-7 11-7 12-7 5-7 6-7 7-7 8-7 9-8 10-8 11-8 12-8 5-8 6-8 7-8 8-8 9-9 10-9 11-9 12-9 5-9 6-9 7-9 8-9 9-10 10-10 11-10 12-10 5-10 6-10 7-10 8-10 9-11 10-11 11-11 12-11 5-11 6-11 7-11 8-11 9-12 10-12 11-12 5-12 6-12 7-12 8-12",
+        "source": "Rendons grâce à le ciel de vivre en toute sécurité dans notre pays .",
+        "sureAlign": "12-12 13-13",
+        "target": "we should count our blessings that we do have a very safe country ."
+    },
+    {
+        "id": "1019",
+        "name": "Hansards.french-english.1019",
+        "possibleAlign": "2-2 2-3 1-5 3-5 4-5 4-7 5-7",
+        "source": "ils ont évidemment mobilisé de les appuis considérables à travers tout le pays .",
+        "sureAlign": "0-0 7-6 6-7 9-8 8-8 11-9 12-10 13-11",
+        "target": "they , of course , mobilized considerable support across the country ."
+    },
+    {
+        "id": "1020",
+        "name": "Hansards.french-english.1020",
+        "possibleAlign": "18-0 19-0 20-0 18-1 19-1 20-1 21-1 18-2 19-2 20-2 21-2 18-3 19-3 20-3 21-3 0-5 2-7 3-7 7-10 11-14 14-15 15-15 16-15",
+        "source": "la famille qui gagne $ 35,000 , lorsque le homme et la femme travaillent tous les deux , cela veut dire quoi ?",
+        "sureAlign": "21-0 1-6 4-8 5-9 8-11 9-12 10-13 12-14 13-16 22-17",
+        "target": "what does it mean for a family earning $ 35,000 where the husband and wife both work ?"
+    },
+    {
+        "id": "1021",
+        "name": "Hansards.french-english.1021",
+        "possibleAlign": "0-0 1-0 2-0 3-0 0-1 1-1 2-1 3-1 0-2 1-2 2-2 3-2 0-3 1-3 2-3 3-3 0-4 1-4 2-4 3-4 0-5 1-5 2-5 3-5 9-7 10-7 0-7 1-7 2-7 3-7 5-7 6-7 7-7 8-7 9-8 10-8 0-8 1-8 2-8 3-8 5-8 6-8 7-8 8-8 9-9 10-9 0-9 1-9 2-9 3-9 5-9 6-9 7-9 8-9 9-10 10-10 11-10 12-10 5-10 6-10 7-10 8-10 9-11 10-11 6-11 7-11 8-11 9-12 10-12 5-12 7-12 8-12 9-13 10-13 11-13 12-13 5-13 6-13 7-13 8-13 9-14 10-14 11-14 12-14 5-14 6-14 7-14 8-14 9-15 10-15 12-15 7-15 8-15 9-16 10-16 11-16 7-16 8-16",
+        "source": "il est donc essentiel que cette question fasse le objet de un vote aujourd' hui .",
+        "sureAlign": "4-6 5-11 6-12 11-15 12-16 13-17 14-17 15-18",
+        "target": "I want to make it clear that we have to let this issue come to a vote today ."
+    },
+    {
+        "id": "1022",
+        "name": "Hansards.french-english.1022",
+        "possibleAlign": "7-6 9-9 13-14 14-14 14-15 15-15",
+        "source": "le premier ministre et le cabinet ne désirent pas dépenser cet argent en Colombie - Britannique .",
+        "sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-7 8-7 7-8 9-10 10-11 11-12 12-13 15-14 13-15 16-16",
+        "target": "the Prime Minister and the Cabinet do not want to spend that money in British Columbia ."
+    },
+    {
+        "id": "1023",
+        "name": "Hansards.french-english.1023",
+        "possibleAlign": "0-0 1-0 2-1 3-1 4-1 7-1 8-4",
+        "source": "les enfants ont besoin de jouets et de loisirs .",
+        "sureAlign": "5-2 6-3 9-5",
+        "target": "they need toys and entertainment ."
+    },
+    {
+        "id": "1024",
+        "name": "Hansards.french-english.1024",
+        "possibleAlign": "3-0 0-1 1-1 2-1 3-1 4-1 5-1 6-1 0-2 1-2 2-2 3-2 4-2 5-2 6-2 0-3 1-3 2-3 3-3 4-3 5-3 6-3 0-4 1-4 2-4 3-4 4-4 5-4 6-4 0-5 1-5 2-5 3-5 4-5 5-5 6-5 0-6 1-6 2-6 3-6 4-6 5-6 6-6 0-7 1-7 2-7 3-7 4-7 5-7 6-7 0-8 1-8 2-8 3-8 4-8 5-8 6-8 9-11 10-11 9-12 10-12 11-13",
+        "source": "elle ne est assurément de aucune utilité à les moins nantis de notre société .",
+        "sureAlign": "7-9 8-10 12-14 13-15 14-16",
+        "target": "obviously it does not do one bit of good for the poor people in our society ."
+    },
+    {
+        "id": "1025",
+        "name": "Hansards.french-english.1025",
+        "possibleAlign": "1-1 3-3 4-3 5-3 6-3 7-3 3-4 4-4 5-4 6-4 7-4 3-5 4-5 5-5 6-5 7-5 3-6 4-6 5-6 6-6 7-6 3-7 4-7 5-7 6-7 7-7 3-8 4-8 5-8 6-8 7-8 3-9 4-9 5-9 6-9 7-9 3-10 4-10 5-10 6-10 7-10 9-11 10-11 11-11 12-11 8-11 9-12 10-12 11-12 12-12 8-12 9-13 10-13 11-13 12-13 8-13 10-14 11-14 12-14 8-14 9-15 11-15 12-15 8-15 9-16 10-16 11-16 12-16 8-16 15-18 16-18 18-22",
+        "source": "je crois que cela donne une bonne idée de les principes à retenir et de ce que devraient être nos responsabilités .",
+        "sureAlign": "0-0 3-2 9-14 10-15 13-17 19-19 20-20 17-21 18-23 21-24",
+        "target": "I think that is putting it in a very whole context as to what the principles are and what our responsibilities ought to be ."
+    },
+    {
+        "id": "1026",
+        "name": "Hansards.french-english.1026",
+        "possibleAlign": "2-2 3-2 4-2 5-2 6-2 7-2 2-3 3-3 4-3 5-3 6-3 7-3 2-4 3-4 4-4 5-4 6-4 7-4 2-5 3-5 4-5 5-5 6-5 7-5 2-6 3-6 4-6 5-6 6-6 7-6",
+        "source": "cependant , il ne a encore rien fait .",
+        "sureAlign": "0-0 1-1 8-7",
+        "target": "however , there is no action forthcoming ."
+    },
+    {
+        "id": "1027",
+        "name": "Hansards.french-english.1027",
+        "possibleAlign": "2-3 5-3 2-4 5-4 3-5 4-5 3-6 4-6 2-7 5-7 13-15 14-16 14-17",
+        "source": "nous aurons fait tellement de concessions que nous serons plus affaiblis que nous devrions le être .",
+        "sureAlign": "0-0 1-1 1-2 6-8 7-9 8-10 8-11 9-12 10-12 11-13 12-14 15-16 15-17 16-18",
+        "target": "we will have given up so much ground that we will be weaker than we need to be ."
+    },
+    {
+        "id": "1028",
+        "name": "Hansards.french-english.1028",
+        "possibleAlign": "0-0 2-2 3-2 4-2 7-4 7-5 11-14 11-15 17-18",
+        "source": "avec ce projet de loi , il sera illégal de demander à un chauffeur de taxi comment contacter une prostituée .",
+        "sureAlign": "1-1 6-3 8-6 15-12 9-13 10-14 12-15 13-16 16-17 17-19 18-20 19-21 20-22",
+        "target": "under this Bill it would be unlawful for a passenger in a taxi to ask a driver how to contact a prostitute ."
+    },
+    {
+        "id": "1029",
+        "name": "Hansards.french-english.1029",
+        "possibleAlign": "12-8 13-8 15-8 12-9 13-9 15-9 10-10 11-10 12-10 13-10 14-10 15-10 10-11 11-11 12-11 13-11 14-11 15-11 10-12 11-12 12-12 13-12 14-12 15-12 12-13 13-13 14-13 15-13 12-14 13-14 14-14 15-14 18-17 19-17 20-17 18-18 19-18 20-18",
+        "source": "si elles ne pouvaient pas payer leurs amendes et que personne ne venait régler leur cautionnement , elles restaient en prison .",
+        "sureAlign": "0-0 1-1 3-2 2-3 4-3 5-4 6-5 7-6 8-7 10-8 11-8 10-9 11-9 17-15 21-19",
+        "target": "if they could not pay their fine and no one would raise bail for them they simply stayed in ."
+    },
+    {
+        "id": "1030",
+        "name": "Hansards.french-english.1030",
+        "possibleAlign": "2-2 3-2 2-3 3-3 2-4 3-4 6-7 7-7 9-9 10-9 11-9 12-9 13-9 14-9 15-9 16-9 17-9 18-9 9-10 10-10 11-10 12-10 13-10 14-10 15-10 16-10 17-10 18-10 9-11 10-11 11-11 12-11 13-11 14-11 15-11 16-11 17-11 18-11 9-12 10-12 11-12 12-12 13-12 14-12 15-12 16-12 17-12 18-12 9-13 10-13 11-13 12-13 13-13 14-13 15-13 16-13 17-13 18-13 9-14 10-14 11-14 12-14 13-14 14-14 15-14 16-14 17-14 18-14 9-15 10-15 11-15 12-15 13-15 14-15 15-15 16-15 17-15 18-15 9-16 10-16 11-16 12-16 13-16 14-16 15-16 16-16 17-16 18-16 9-17 10-17 11-17 12-17 13-17 14-17 15-17 16-17 17-17 18-17 9-19 10-19 11-19 12-19 13-19 14-19 15-19 16-19 17-19 18-19 9-20 10-20 11-20 12-20 13-20 14-20 15-20 16-20 17-20 18-20 9-21 10-21 11-21 12-21 13-21 14-21 15-21 16-21 17-21 18-21",
+        "source": "comme vous le savez , monsieur le Président , les lois adoptées dans ces conditions - là sont souvent mauvaises .",
+        "sureAlign": "0-0 1-1 4-5 5-6 8-8 19-18 20-22",
+        "target": "as you are well aware , Mr. Speaker , when Governments act under political pressure , they make bad laws at times ."
+    },
+    {
+        "id": "1031",
+        "name": "Hansards.french-english.1031",
+        "possibleAlign": "1-1 2-1 3-1 8-6 11-9 12-9 11-10 12-10 11-11 12-11 11-12 12-12 13-13 14-13 15-13 16-13 17-13 18-13 13-14 15-14 16-14 17-14 18-14 19-14",
+        "source": "ce projet de loi prétend , je dis bien prétend , faire progresser le égalité de accès à le emploi .",
+        "sureAlign": "0-0 4-2 5-3 6-5 7-6 9-7 10-8 19-13 14-14 20-15",
+        "target": "this Bill pretends , and I say pretends , to do something about employment equity ."
+    },
+    {
+        "id": "1032",
+        "name": "Hansards.french-english.1032",
+        "possibleAlign": "0-0 1-2 3-2 4-2 1-3 3-3 4-3 5-4 6-4 10-5 13-5 14-5 2-5 7-5 8-5 9-6 10-6 11-6 12-6 10-7 11-7 12-7 10-8 13-8 14-8 2-8 7-8 16-10 17-10 18-10 16-11 17-11 18-11 16-12 17-12 18-12 23-13 24-13 23-14 24-14 27-16 19-17 20-17 21-17 22-17 26-17 19-18 20-18 21-18 22-18 26-18 19-19 20-19 21-19 22-19 26-19 19-20 20-20 21-20 22-20 26-20 19-21 20-21 21-21 22-21 26-21 19-22 20-22 21-22 22-22 26-22",
+        "source": "mais il ne y avait en fait pas de mécanisme de application obligatoire ni de méthode permettant de garantir une véritable participation de les autochtones et de les femmes .",
+        "sureAlign": "9-7 15-9 25-15 28-16 29-23",
+        "target": "however , there was essentially no enforcement mechanism or method of ensuring that native people and women really became involved in the process ."
+    },
+    {
+        "id": "1033",
+        "name": "Hansards.french-english.1033",
+        "possibleAlign": "2-4 3-4",
+        "source": "ils veulent de les résultats .",
+        "sureAlign": "0-0 1-1 4-4 5-5",
+        "target": "they want to see results ."
+    },
+    {
+        "id": "1034",
+        "name": "Hansards.french-english.1034",
+        "possibleAlign": "0-0 1-0 2-0 3-0 0-1 2-1 3-1 4-1 5-2 6-2 7-2 5-3 6-3 7-3 5-4 6-4 7-4 5-5 6-5 9-6 10-6 8-6 9-7 10-7 8-7 14-10 13-11 14-11 13-12 14-12 16-14 17-14 19-14 16-15 17-15 19-15 21-18 23-18 24-18 25-18 26-18 27-18 21-19 22-19 23-19 24-19 25-19 26-19 27-19 21-20 22-20 23-20 24-20 25-20 26-20 27-20 21-21 22-21 23-21 24-21 25-21 26-21 27-21 21-22 22-22 23-22 24-22 25-22 26-22 27-22 21-23 22-23 23-23 24-23 25-23 26-23 27-23 21-24 22-24 23-24 24-24 25-24 26-24 27-24",
+        "source": "le Conseil de le Trésor est chargé de la promotion sociale dans le administration fédérale depuis de les années , mais les femmes ne en ont guère bénéficié .",
+        "sureAlign": "4-0 1-1 7-5 11-8 12-9 13-10 15-13 18-15 22-18 28-25",
+        "target": "treasury Board has been responsible for affirmative action in the Government of Canada for some years now and women have little to show for it ."
+    },
+    {
+        "id": "1035",
+        "name": "Hansards.french-english.1035",
+        "possibleAlign": "0-1 9-6 10-6 11-6 12-6 6-6 7-6 8-6 9-7 10-7 11-7 12-7 6-7 7-7 8-7 9-8 10-8 11-8 12-8 6-8 7-8 8-8 9-9 10-9 11-9 12-9 6-9 7-9 8-9 9-10 10-10 11-10 12-10 6-10 7-10 8-10",
+        "source": "les travailleuses sont encore confinées à les tâches parmi les plus mal rémunérées .",
+        "sureAlign": "1-0 1-1 2-2 3-3 4-4 5-5 13-11",
+        "target": "women workers are still confined to most of the job ghettos ."
+    },
+    {
+        "id": "1036",
+        "name": "Hansards.french-english.1036",
+        "possibleAlign": "1-0 0-1 1-1 0-2 1-2 0-3 1-3 2-4 3-4 3-5 2-6 3-6 2-7 3-7 4-8 5-8 6-8 4-9 6-9 9-10 10-10 7-10 8-10 12-13 13-13 14-13 15-13 12-14 13-14 14-14 15-14 16-14 12-15 13-15 15-15 16-15 13-16 14-16 15-16 16-16",
+        "source": "il importe de examiner le équité professionnelle à le sein de les programmes de création de emplois fédéraux .",
+        "sureAlign": "0-0 5-9 11-11 17-12 16-13 14-15 12-16 18-17",
+        "target": "it is very important that we look at employment equity within the federal job - creation programs ."
+    },
+    {
+        "id": "1037",
+        "name": "Hansards.french-english.1037",
+        "possibleAlign": "10-0 11-0 12-0 9-2 13-2 1-4 2-4 4-6 5-7 6-7 22-15 23-15 25-17",
+        "source": "monsieur le Président , on a vu , hier , une autre fois , que le premier ministre ( M. Mulroney ) a trahi sa promesse .",
+        "sureAlign": "8-1 0-3 3-5 15-8 16-9 17-10 18-11 19-12 20-13 21-14 24-16 26-18",
+        "target": "again yesterday , Mr. Speaker , we saw the Prime Minister ( Mr. Mulroney ) break his word ."
+    },
+    {
+        "id": "1038",
+        "name": "Hansards.french-english.1038",
+        "possibleAlign": "1-1 2-1 1-2 2-2 1-3 2-3 1-4 2-4 1-5 2-5 9-9 10-9 11-9 12-9 6-9 7-9 8-9 9-10 10-10 11-10 12-10 6-10 7-10 8-10 9-11 10-11 11-11 12-11 6-11 7-11 8-11 9-12 10-12 11-12 12-12 6-12 7-12 8-12 9-13 10-13 11-13 12-13 6-13 7-13 8-13 9-14 10-14 11-14 12-14 6-14 7-14 8-14 14-15 15-15 16-15 17-15 18-15 19-15 20-15 21-15 14-16 15-16 16-16 17-16 18-16 19-16 20-16 21-16 14-17 15-17 16-17 17-17 18-17 19-17 20-17 21-17 14-18 15-18 16-18 17-18 18-18 19-18 20-18 21-18 14-19 15-19 16-19 17-19 18-19 19-19 20-19 21-19 14-20 15-20 16-20 17-20 18-20 19-20 21-20 14-21 15-21 16-21 17-21 18-21 19-21 20-21",
+        "source": "que va coûter cette décision , en manque à gagner de recettes fiscales , si elle se applique à de autres sociétés ?",
+        "sureAlign": "0-0 3-6 4-8 20-20 21-21 22-22",
+        "target": "what will be the cost of this particular ruling in terms of lost tax revenue as it is applied to other corporations ?"
+    },
+    {
+        "id": "1039",
+        "name": "Hansards.french-english.1039",
+        "possibleAlign": "0-0 1-0 0-1 1-1 0-2 1-2 2-3 3-3 4-3 6-3 7-3 8-3 2-4 3-4 4-4 5-4 7-4 8-4 2-5 3-5 4-5 5-5 6-5 7-5 8-5 2-6 3-6 4-6 5-6 6-6 7-6 8-6 2-7 3-7 4-7 5-7 6-7 7-7 8-7 2-8 3-8 4-8 5-8 6-8 7-8 8-8 2-9 3-9 4-9 5-9 6-9 7-9 8-9 10-11 11-11 12-11 13-11 10-12 11-12 12-12 13-12 10-13 11-13 12-13 13-13 10-14 11-14 12-14 13-14 10-15 11-15 12-15 13-15 15-16 16-16 14-17 15-17 16-17 14-18 15-18 16-18 14-19 15-19 22-20 23-21 19-25 20-25 21-25",
+        "source": "dès que le revenu de les producteurs devient insuffisant , leurs fournisseurs de matériel et de services commencent à se en ressentir dans la collectivité .",
+        "sureAlign": "5-3 6-4 9-10 14-16 16-19 24-22 17-23 18-24 25-26",
+        "target": "as soon as the growers begin to earn inadequate incomes , those who supply the growers and offer support services in the community begin to suffer ."
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "id": "0001",
+        "name": "Hansards.english-french.0001",
+        "possibleAlign": "",
+        "source": "2 .",
+        "sureAlign": "0-0 1-1",
+        "target": "2 ."
+    },
+    {
+        "id": "0002",
+        "name": "Hansards.english-french.0002",
+        "possibleAlign": "",
+        "source": "2 .",
+        "sureAlign": "0-0 1-1",
+        "target": "2 ."
+    },
+    {
+        "id": "0003",
+        "name": "Hansards.english-french.0003",
+        "possibleAlign": "",
+        "source": "oh , oh !",
+        "sureAlign": "0-0 1-1 2-2 3-3",
+        "target": "oh , oh !"
+    },
+    {
+        "id": "0004",
+        "name": "Hansards.english-french.0004",
+        "possibleAlign": "",
+        "source": "oh , oh !",
+        "sureAlign": "0-0 1-1 2-2 3-3",
+        "target": "oh , oh !"
+    },
+    {
+        "id": "0005",
+        "name": "Hansards.english-french.0005",
+        "possibleAlign": "",
+        "source": "oh , oh !",
+        "sureAlign": "0-0 1-1 2-2 3-3",
+        "target": "oh , oh !"
+    },
+    {
+        "id": "0006",
+        "name": "Hansards.english-french.0006",
+        "possibleAlign": "0-0 5-5 13-17 13-18 14-18",
+        "source": "let us remember , Mr. Speaker , that these segments of our society form the backbone of our economy .",
+        "sureAlign": "1-2 2-0 3-3 4-4 5-6 6-7 7-8 8-11 9-12 10-13 11-14 12-15 15-19 15-20 16-21 17-22 18-23 19-24",
+        "target": "souvenons - nous , monsieur le Orateur , que ce sont ces secteurs de notre société qui servent de épine dorsale à notre économie ."
+    },
+    {
+        "id": "0007",
+        "name": "Hansards.english-french.0007",
+        "possibleAlign": "0-0 1-0 2-0",
+        "source": "hear , hear !",
+        "sureAlign": "3-1",
+        "target": "bravo !"
+    },
+    {
+        "id": "0008",
+        "name": "Hansards.english-french.0008",
+        "possibleAlign": "0-0 1-0 2-0",
+        "source": "hear , hear !",
+        "sureAlign": "3-1",
+        "target": "bravo !"
+    },
+    {
+        "id": "0009",
+        "name": "Hansards.english-french.0009",
+        "possibleAlign": "1-1 5-6 5-7 6-6 6-7 10-13 11-13",
+        "source": "Mr. Speaker , my question is directed to the Minister of Transport .",
+        "sureAlign": "0-0 1-2 2-3 3-4 4-5 7-8 8-9 9-10 10-12 11-14 12-15",
+        "target": "monsieur le Orateur , ma question se adresse à le ministre chargé de les transports ."
+    },
+    {
+        "id": "0010",
+        "name": "Hansards.english-french.0010",
+        "possibleAlign": "1-3 2-3 3-6 4-6 9-12 10-15 12-15",
+        "source": "both have many years experience in the manufacture and distribution of forest products .",
+        "sureAlign": "0-0 0-1 1-2 2-4 3-5 4-7 5-8 6-9 7-10 8-11 9-13 10-14 11-17 12-16 13-18",
+        "target": "tous deux possèdent de nombreuses années de expérience dans la fabrication et la distribution de les produits forestiers ."
+    },
+    {
+        "id": "0011",
+        "name": "Hansards.english-french.0011",
+        "possibleAlign": "",
+        "source": "1 .",
+        "sureAlign": "0-0 1-1",
+        "target": "1 ."
+    },
+    {
+        "id": "0012",
+        "name": "Hansards.english-french.0012",
+        "possibleAlign": "0-2 1-2 2-1 2-3 2-4 3-0 3-1 3-3 3-4 4-0 4-1 4-3 4-4 5-0 5-1 5-3 5-4 6-0 6-1 6-3 6-4 17-14 17-15 17-16 18-14 18-15 18-16 19-14 19-15 19-16 20-14 20-15 20-16",
+        "source": "another point I should like to discuss is the right of the supplier to choose his customers as he sees fit .",
+        "sureAlign": "2-0 8-5 9-6 10-7 11-8 12-9 13-10 14-11 15-12 16-13 21-17",
+        "target": "je voudrais aussi parler de le droit de le fournisseur de choisir ses clients à son gré ."
+    },
+    {
+        "id": "0013",
+        "name": "Hansards.english-french.0013",
+        "possibleAlign": "0-1 0-2 0-3 0-4 1-0 1-1 1-2 1-3 1-4 2-0 2-1 2-2 2-3 2-4 3-0 3-1 3-2 3-3 3-4 4-0 4-1 4-2 4-3 4-4 5-0 5-1 5-2 5-3 5-4 6-0 6-1 6-2 6-3 6-4 7-7 10-10 10-11 10-12 11-10 11-11 11-12 12-10 12-11 12-12 13-10 13-11 13-12 14-10 14-11 14-12 15-10 15-11 15-12 16-13 17-14",
+        "source": "i am getting sick and tired of ministers who seem to have some hang - up with regard to the collective bargaining process .",
+        "sureAlign": "0-0 7-8 9-9 17-15 18-16 19-17 20-19 21-18 22-18 23-20",
+        "target": "je en ai assez de voir que les ministres semblent éprouver certains complexes à le égard de la négociation collective ."
+    },
+    {
+        "id": "0014",
+        "name": "Hansards.english-french.0014",
+        "possibleAlign": "6-4 9-1 10-1 11-2 13-2 15-12 15-13 15-14 15-15 16-12 16-13 16-14 16-15 17-12 17-13 17-14 17-15 18-12 18-13 18-14 18-15 19-12 19-13 19-14 19-15 22-9",
+        "source": "there is just one specific item more that I would like to comment upon and then I will sit down , Mr. Speaker .",
+        "sureAlign": "3-3 4-6 5-5 8-0 12-2 20-7 21-8 22-10 23-16",
+        "target": "je voudrais commenter un autre point particulier , monsieur le Orateur , avant de me taire ."
+    },
+    {
+        "id": "0015",
+        "name": "Hansards.english-french.0015",
+        "possibleAlign": "0-0 0-1 1-0 1-1 1-2 2-0 2-1 2-2",
+        "source": "order , please .",
+        "sureAlign": "0-2 3-3",
+        "target": "a le ordre ."
+    },
+    {
+        "id": "0016",
+        "name": "Hansards.english-french.0016",
+        "possibleAlign": "",
+        "source": "3 .",
+        "sureAlign": "0-0 1-1",
+        "target": "3 ."
+    },
+    {
+        "id": "0017",
+        "name": "Hansards.english-french.0017",
+        "possibleAlign": "0-0 0-2 0-3 0-5 1-0 1-2 1-3 1-5 2-0 2-2 2-3 2-5 3-0 3-2 3-3 3-5 4-0 4-2 4-3 4-5 5-5 13-13 14-13",
+        "source": "i can refer him to no better authority on the subject than the hon. member for Don Valley , not just myself .",
+        "sureAlign": "5-1 5-4 6-6 7-7 8-8 9-9 10-10 11-11 12-12 15-14 16-15 17-16 18-17 19-18 19-19 20-21 21-20 22-22",
+        "target": "il ne y a pas de meilleure autorité en la matière que le député de Don Valley , non pas moi exclusivement ."
+    },
+    {
+        "id": "0018",
+        "name": "Hansards.english-french.0018",
+        "possibleAlign": "0-0 2-2 2-3 2-4",
+        "source": "it is quite understandable .",
+        "sureAlign": "1-1 3-5 4-6",
+        "target": "ce est tout à fait compréhensible ."
+    },
+    {
+        "id": "0019",
+        "name": "Hansards.english-french.0019",
+        "possibleAlign": "0-0 0-1 1-0 1-1 3-3 5-5 10-10 13-13",
+        "source": "in addition , it could become a serious threat to Confederation and national unity .",
+        "sureAlign": "2-2 4-4 6-6 7-7 8-8 9-9 10-11 11-12 12-15 13-14 14-16",
+        "target": "en outre , elle pourrait constituer une sérieuse menace pour la Confédération et le unité nationale ."
+    },
+    {
+        "id": "0020",
+        "name": "Hansards.english-french.0020",
+        "possibleAlign": "0-0 0-1 0-2 0-4 0-5 0-6 0-7 0-8 0-9 1-0 1-1 1-2 2-0 2-1 2-2 3-0 3-1 3-2 5-5 5-6 5-7 5-8 5-9 6-4 6-5 6-6 6-7 6-8 6-9 7-4 7-5 7-6 7-7 7-8 7-9 8-4 8-5 8-6 8-7 8-8 8-9 10-12 11-12 14-21 14-22 15-16 15-17 16-19",
+        "source": "in view of this , we deemed it inadvisable to attend the meeting and so informed COJO .",
+        "sureAlign": "4-3 5-4 9-10 10-11 11-13 12-14 13-15 15-18 16-20 17-23",
+        "target": "pour cette raison , nous ne avons pas cru bon de assister à la réunion et en avons informé le COJO en conséquence ."
+    },
+    {
+        "id": "0021",
+        "name": "Hansards.english-french.0021",
+        "possibleAlign": "1-1 5-6 5-7 5-8 8-14 8-15 9-12 10-10 10-12 11-16 11-17 11-18 15-19",
+        "source": "Mr. Speaker , the minister suggested that a greater building program might lead to inflationary pressure .",
+        "sureAlign": "0-0 1-2 2-3 3-4 4-5 6-9 7-10 9-13 10-11 14-21 15-20 16-22",
+        "target": "monsieur le Orateur , le ministre a laissé entendre que un programme de construction plus considérable peut - être une poussée inflationniste ."
+    },
+    {
+        "id": "0022",
+        "name": "Hansards.english-french.0022",
+        "possibleAlign": "1-1 1-2 1-3 2-1 2-2 2-3 4-5 5-5 5-6 6-6",
+        "source": "i disagree with the argument advanced by the minister .",
+        "sureAlign": "0-0 3-4 7-7 8-8 9-9",
+        "target": "je ne partage pas le avis de le ministre ."
+    },
+    {
+        "id": "0023",
+        "name": "Hansards.english-french.0023",
+        "possibleAlign": "4-4 4-5 4-6 5-4 5-5 5-6 6-4 6-5 6-6 8-7 8-8",
+        "source": "there is a lot to be said on both sides of that question .",
+        "sureAlign": "0-0 0-1 0-2 1-0 1-1 1-2 2-3 3-3 7-6 9-9 10-10 11-11 12-12 13-13",
+        "target": "il y a beaucoup à dire sur les deux aspects de cette question ."
+    },
+    {
+        "id": "0024",
+        "name": "Hansards.english-french.0024",
+        "possibleAlign": "0-0 0-1",
+        "source": "order .",
+        "sureAlign": "0-2 1-3",
+        "target": "a le ordre ."
+    },
+    {
+        "id": "0025",
+        "name": "Hansards.english-french.0025",
+        "possibleAlign": "1-1 4-7 4-8 5-5 5-7 5-8 14-17 16-18 23-24 25-24",
+        "source": "Mr. Speaker , as I indicated to the Leader of the Opposition , I would hope to make an announcement on this question on November 1 .",
+        "sureAlign": "0-0 1-2 2-3 3-4 4-5 6-9 7-10 8-11 9-12 10-13 11-14 12-15 13-16 15-17 17-18 18-19 19-20 20-21 21-22 22-23 24-25 26-26",
+        "target": "monsieur le Orateur , comme je le ai signalé à le chef de le opposition , je espère faire une déclaration à ce sujet le1er novembre ."
+    },
+    {
+        "id": "0026",
+        "name": "Hansards.english-french.0026",
+        "possibleAlign": "0-0 0-1 0-2 0-3 1-0 1-1 1-2 1-3",
+        "source": "quite right .",
+        "sureAlign": "2-4",
+        "target": "ce est bien cela ."
+    },
+    {
+        "id": "0027",
+        "name": "Hansards.english-french.0027",
+        "possibleAlign": "0-0 0-1 0-2 0-3 0-4 0-5 0-6 0-7 0-8 0-9 0-10 0-11 0-12 0-13 0-14 1-0 1-1 1-2 1-3 1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-14 2-0 2-1 2-2 2-3 2-4 2-5 2-6 2-7 2-8 2-9 2-10 2-11 2-12 2-13 2-14 3-0 3-1 3-2 3-3 3-4 3-5 3-6 3-7 3-8 3-9 3-10 3-11 3-12 3-13 3-14 4-0 4-1 4-2 4-3 4-4 4-5 4-8 4-9 4-10 4-11 4-12 4-13 4-14 5-0 5-1 5-2 5-3 5-4 5-5 5-6 5-7 5-8 5-9 5-10 5-11 5-12 5-13 5-14 6-0 6-1 6-2 6-3 6-4 6-5 6-6 6-7 6-8 6-9 6-10 6-11 6-12 6-13 6-14 7-0 7-1 7-2 7-3 7-4 7-5 7-6 7-7 7-8 7-9 7-10 7-11 7-12 7-13 7-14 8-0 8-1 8-2 8-3 8-4 8-5 8-6 8-7 8-8 8-9 8-10 8-11 8-12 8-13 8-14 9-0 9-1 9-2 9-3 9-4 9-5 9-6 9-7 9-8 9-9 9-10 9-11 9-12 9-13 9-14 10-0 10-1 10-2 10-3 10-4 10-5 10-6 10-7 10-8 10-9 10-10 10-11 10-12 10-13 10-14 11-0 11-1 11-2 11-3 11-4 11-5 11-6 11-7 11-8 11-9 11-10 11-11 11-12 11-13 11-14 12-0 12-1 12-2 12-3 12-4 12-5 12-6 12-7 12-8 12-9 12-10 12-11 12-12 12-13 12-14 13-0 13-1 13-2 13-3 13-4 13-5 13-6 13-7 13-8 13-9 13-10 13-11 13-12 13-13 13-14",
+        "source": "it does not bring anybody closer to rehabilitation to isolate him from the public .",
+        "sureAlign": "4-6 4-7 14-15",
+        "target": "ce ne est pas en isolant quelque un que on le aide à se réadapter ."
+    },
+    {
+        "id": "0028",
+        "name": "Hansards.english-french.0028",
+        "possibleAlign": "5-5",
+        "source": "he left a wife and family .",
+        "sureAlign": "0-0 1-1 2-2 3-3 4-4 5-6 6-7",
+        "target": "il laissait une femme et une famille ."
+    },
+    {
+        "id": "0029",
+        "name": "Hansards.english-french.0029",
+        "possibleAlign": "0-3 0-4 0-5 0-6 1-3 1-4 1-5 1-6 2-3 2-4 2-5 2-6 3-3 3-4 3-5 3-6 4-3 4-4 4-5 7-1 8-7 14-12 20-19",
+        "source": "on a point of order , Mr. Chairman , I am sure the hon. member for Verdun would not have denigrated my position .",
+        "sureAlign": "4-6 5-7 6-0 7-2 9-8 10-9 11-10 12-12 13-13 14-13 15-14 16-15 17-17 18-16 18-18 19-17 21-20 22-21 23-22",
+        "target": "monsieur le président je invoque le Règlement ; je suis persuadé que le député de Verdun ne aurait pas déprécié ma position ."
+    },
+    {
+        "id": "0030",
+        "name": "Hansards.english-french.0030",
+        "possibleAlign": "2-2 3-1 3-2 4-7 4-8 4-9 5-7 5-8 5-9 8-13 8-14 9-13 9-14",
+        "source": "can the insurance industry in turn act as an airline ?",
+        "sureAlign": "0-4 1-0 2-3 6-11 7-12 10-15",
+        "target": "les compagnies de assurance peuvent - elles à leur tour , agir comme compagnies aériennes ?"
+    },
+    {
+        "id": "0031",
+        "name": "Hansards.english-french.0031",
+        "possibleAlign": "2-2 3-1 7-6 8-8 13-14 16-17 16-18 16-19 16-20 16-21 16-22 17-17 17-18 17-19 17-20 17-21 17-22 18-17 18-18 18-19 18-20 18-21 18-22",
+        "source": "i say this to you , Mr. Speaker : the people of Toronto know the government has no answers .",
+        "sureAlign": "0-0 1-3 4-1 5-4 6-5 7-7 9-9 10-10 11-11 12-12 13-13 14-15 15-16 19-23",
+        "target": "je vous le déclare , monsieur le Orateur , la population de Toronto sait que le gouvernement est incapable de fournir une réponse ."
+    },
+    {
+        "id": "0032",
+        "name": "Hansards.english-french.0032",
+        "possibleAlign": "1-9 6-14 7-14 8-0 8-1 8-2 8-3 8-4 8-5 8-6 8-7 9-0 9-1 9-2 9-3 9-4 9-5 9-6 9-7 10-0 10-1 10-2 10-3 10-4 10-5 10-6 10-7 11-0 11-1 11-2 11-3 11-4 11-5 11-6 11-7 12-0 12-1 12-2 12-3 12-4 12-5 12-6 12-7",
+        "source": "their evidence on the state of each stock was taken fully into account .",
+        "sureAlign": "0-8 2-10 3-11 4-12 5-13 7-15 13-18",
+        "target": "on a tout à fait tenu compte de leur avis sur le état de la réserve de poisson ."
+    },
+    {
+        "id": "0033",
+        "name": "Hansards.english-french.0033",
+        "possibleAlign": "0-0 0-1 0-2 1-0 1-2 2-0 2-1 2-2 3-0 3-1 3-2 6-5 11-11 12-11",
+        "source": "thank you very much , Mr. Speaker , and I thank hon. members for allowing me the privilege to continue .",
+        "sureAlign": "1-1 4-3 5-4 6-6 7-7 8-8 9-9 10-10 11-12 12-12 13-13 14-15 15-14 18-16 19-17 20-18",
+        "target": "je vous remercie , monsieur le Orateur , et je remercie les députés de me permettre de poursuivre ."
+    },
+    {
+        "id": "0034",
+        "name": "Hansards.english-french.0034",
+        "possibleAlign": "1-1 1-2 7-8 12-13 12-15 12-16 13-13 13-15 13-16 19-22",
+        "source": "i urge this intensive study , Mr. Speaker , for we know so little about the reasons that turn people into criminals .",
+        "sureAlign": "0-0 2-3 3-5 4-4 5-6 6-7 7-9 8-10 9-11 10-12 11-14 14-17 15-18 16-19 17-20 18-21 19-23 20-24 21-25 22-26",
+        "target": "je réclame instamment cette étude approfondie , monsieur le Orateur , car nous ne savons presque rien de les raisons qui transforment les gens en criminels ."
+    },
+    {
+        "id": "0035",
+        "name": "Hansards.english-french.0035",
+        "possibleAlign": "8-8 12-16 12-17 13-15 13-16 13-17 14-15 14-17 15-15 15-16 15-17",
+        "source": "the government must assist its own employees who may need another language to advance their careers .",
+        "sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 9-9 9-10 9-11 10-12 10-13 11-14 12-15 14-16 16-18",
+        "target": "le gouvernement doit aider ses propres employés qui peuvent avoir besoin de une autre langue pour leur avancement ."
+    },
+    {
+        "id": "0036",
+        "name": "Hansards.english-french.0036",
+        "possibleAlign": "1-2 4-4 6-6 6-7 12-14",
+        "source": "i do not have any qualms about the type of language I use .",
+        "sureAlign": "0-0 2-1 2-3 3-2 5-5 7-8 8-9 9-10 10-11 11-13 13-15",
+        "target": "je ne ai pas de scrupule quant à le genre de langage que je tiens ."
+    },
+    {
+        "id": "0037",
+        "name": "Hansards.english-french.0037",
+        "possibleAlign": "0-1 1-3 1-4 2-3 2-4",
+        "source": "motion agreed to .",
+        "sureAlign": "0-2 3-5",
+        "target": "( la motion est adoptée . )"
+    },
+    {
+        "id": "0038",
+        "name": "Hansards.english-french.0038",
+        "possibleAlign": "1-1 1-2 3-4 3-5 3-6 3-7 3-8 3-9 4-4 4-6 4-7 4-8 4-9 5-4 5-5 5-6 5-7 5-8 5-9 6-4 6-5 6-6 6-7 6-8 6-9 7-4 7-5 7-6 7-7 7-8 7-9 8-10 8-11 8-12 8-13 8-14 9-10 9-11 9-12 9-13 9-14 12-18 13-18",
+        "source": "Mr. Speaker , no decision has been reached as yet but I should think so .",
+        "sureAlign": "0-0 2-3 4-5 10-16 11-17 15-23",
+        "target": "monsieur le président , la décision ne est pas prise à ce moment - ci , mais je imagine que ce est oui ."
+    },
+    {
+        "id": "0039",
+        "name": "Hansards.english-french.0039",
+        "possibleAlign": "4-3",
+        "source": "the matter of trade relations with our European counterparts should be very seriously considered .",
+        "sureAlign": "0-0 1-1 2-2 3-5 4-4 5-6 6-7 7-9 8-8 9-10 10-11 11-13 12-14 13-12 14-15",
+        "target": "la question de les relations commerciales avec nos homologues européens devrait être envisagée très sérieusement ."
+    },
+    {
+        "id": "0040",
+        "name": "Hansards.english-french.0040",
+        "possibleAlign": "0-0 0-1 0-2 0-7 0-8 0-9 1-0 1-1 1-7 1-8 1-9 2-0 2-1 2-2 2-7 2-8 2-9 3-0 3-1 3-2 3-7 3-8 3-9 4-0 4-1 4-2 4-7 4-8 4-9 5-0 5-1 5-2 5-7 5-8 5-9 6-4 6-5 7-4 7-5 8-4 8-5 9-11 15-16 15-17 16-16 16-17 17-16 17-17 18-16 18-17 19-16 19-17 20-20 20-21 20-22 20-23 20-24 21-20 21-22 21-23 21-24 22-20 22-21 22-23 22-24",
+        "source": "what we should be concerned with in this country is the situation when these animals are shipped out of Canada for this purpose .",
+        "sureAlign": "1-2 9-12 10-13 11-14 12-15 13-18 14-19 21-21 22-22 23-25",
+        "target": "ce dont nous , les Canadiens , devons nous soucier , ce est les cas où on exporte ces animaux dans ce but - là ."
+    },
+    {
+        "id": "0041",
+        "name": "Hansards.english-french.0041",
+        "possibleAlign": "3-3 4-3 5-3 6-3 8-5",
+        "source": "they have already given an indication of the branches they intend to close .",
+        "sureAlign": "0-0 1-1 2-2 7-4 9-7 10-8 11-9 12-10 13-11",
+        "target": "ils ont déjà indiqué les embranchements que ils songeaient à fermer ."
+    },
+    {
+        "id": "0042",
+        "name": "Hansards.english-french.0042",
+        "possibleAlign": "2-2 2-3 2-4 4-7 4-9 5-9 8-13 8-14 17-23 17-24 17-25 17-26 18-23 18-24 18-25 18-26 19-23 19-24 19-25 19-26 20-23 20-24 20-25 20-26",
+        "source": "this minister watched while half the proceeds and profits of the Canadian agriculture industry were swept away in a budget speech .",
+        "sureAlign": "0-0 1-1 3-5 3-6 4-8 5-10 6-11 7-12 8-15 9-16 10-17 11-20 12-19 13-18 14-21 15-22 16-22 21-27",
+        "target": "ce ministre assurait la garde tandis que la moitié de les recettes et de les bénéfices de le industrie agricole canadienne étaient balayés par le exposé budgétaire ."
+    },
+    {
+        "id": "0043",
+        "name": "Hansards.english-french.0043",
+        "possibleAlign": "1-5 3-0 3-1 3-2 4-0 4-1 4-2",
+        "source": "Mr. Chairman , absolutely none .",
+        "sureAlign": "0-4 1-6 2-3 5-7",
+        "target": "en aucune façon , monsieur le président ."
+    },
+    {
+        "id": "0044",
+        "name": "Hansards.english-french.0044",
+        "possibleAlign": "1-2 1-4 1-5 2-2 2-4 2-5 9-9 10-11 10-12 10-13 10-14 10-15 10-16 10-17 10-18 10-19 11-11 11-12 11-13 11-14 11-15 11-16 11-17 11-18 11-19 12-11 12-12 12-13 12-14 12-15 12-16 12-17 12-19 13-11 13-12 13-13 13-14 13-15 13-16 13-17 13-18 13-19 14-12 14-13 14-14 14-15 14-16 14-17 14-18 14-19 15-11 15-13 15-14 15-15 15-16 15-17 15-18 15-19 16-10 17-10 18-10 19-10",
+        "source": "we are analysing the report now and I hope to have some information for the House in the near future .",
+        "sureAlign": "0-0 5-3 6-6 7-7 8-8 12-18 14-11 15-12 20-20",
+        "target": "nous en faisons actuellement le analyse et je espère que bientôt la Chambre pourra être saisie de les renseignements pertinents ."
+    },
+    {
+        "id": "0045",
+        "name": "Hansards.english-french.0045",
+        "possibleAlign": "0-0 1-0 2-0",
+        "source": "hear , hear !",
+        "sureAlign": "3-1",
+        "target": "bravo !"
+    },
+    {
+        "id": "0046",
+        "name": "Hansards.english-french.0046",
+        "possibleAlign": "0-0 1-0 2-0",
+        "source": "hear , hear !",
+        "sureAlign": "3-1",
+        "target": "bravo !"
+    },
+    {
+        "id": "0047",
+        "name": "Hansards.english-french.0047",
+        "possibleAlign": "1-1 3-1 5-4 5-5 5-6 5-7 6-4 6-5 6-6 6-7",
+        "source": "i would therefore move , seconded by the hon. member for Dartmouth - Halifax East ( Mr. Forrestall ) :",
+        "sureAlign": "0-0 2-2 4-3 7-8 8-9 9-9 10-10 12-12 13-11 14-13 15-14 16-15 17-16 18-17 19-18",
+        "target": "je proposerais donc , avec le appui de le député de Halifax - East ( M. Forrestall ) :"
+    },
+    {
+        "id": "0048",
+        "name": "Hansards.english-french.0048",
+        "possibleAlign": "1-1 2-2 2-3 4-5 8-9 11-11 16-18 19-24 19-25 20-24 20-25 21-24 21-25 22-21 22-22",
+        "source": "when we realize the extent of the ravages caused by organized crime in our country , we must consider deep - rooted solutions .",
+        "sureAlign": "0-0 3-4 5-6 6-7 7-8 9-10 10-13 11-12 12-14 13-15 14-16 15-17 17-19 18-20 22-23 23-26",
+        "target": "quand on a saisi le énormité de le ravage exercé par le crime organisé dans notre pays , on doit envisager de les solutions en profondeur ."
+    },
+    {
+        "id": "0049",
+        "name": "Hansards.english-french.0049",
+        "possibleAlign": "5-2 5-3 5-4 5-5 8-8 8-9 8-10 8-11 8-12 8-13 8-14 8-15 8-16 9-8 9-9 9-10 9-11 9-12 9-13 9-14 9-15 9-16 10-8 10-9 10-10 10-11 10-12 10-13 10-14 10-15 10-16 11-8 11-9 11-10 11-11 11-12 11-13 11-14 11-15",
+        "source": "but oh how their popularity soared and they coasted through on that .",
+        "sureAlign": "3-0 4-1 6-6 7-7 11-16 12-17",
+        "target": "leur popularité a monté en flèche et ils ont traversé la crise avec facilité grâce à cela ."
+    },
+    {
+        "id": "0050",
+        "name": "Hansards.english-french.0050",
+        "possibleAlign": "5-5 5-6 5-7 5-8 6-5 6-6 6-7 6-8 7-5 7-6 7-7 7-8 9-14 13-9 17-10 20-13",
+        "source": "( 2 ) A committee is bound by , and not at liberty to depart from , the order of reference .",
+        "sureAlign": "0-0 1-1 2-2 3-3 4-4 18-11 19-12 21-19",
+        "target": "( 2 ) Un comité doit se en tenir à le ordre de renvoi et ne saurait y déroger ."
+    },
+    {
+        "id": "0051",
+        "name": "Hansards.english-french.0051",
+        "possibleAlign": "6-1 7-1 8-2 9-2 14-9 17-15 18-16 18-17 18-18 18-19 19-16 19-17 19-18 19-19 20-17 20-18 20-19",
+        "source": "there is one other point I should like to make , and I do so as I feel this is a general debate .",
+        "sureAlign": "2-3 3-4 4-5 5-0 10-6 11-7 12-8 13-10 15-11 15-12 16-13 17-14 20-20 21-22 22-21 23-23",
+        "target": "je voudrais préciser un autre point , et je le fais parce que je estime que il se agit de un débat général ."
+    },
+    {
+        "id": "0052",
+        "name": "Hansards.english-french.0052",
+        "possibleAlign": "2-7 2-8 2-9 2-10 2-11 3-7 3-8 3-9 3-10 3-11 4-7 4-8 4-9 4-10 4-11 5-7 5-8 5-9 5-10 5-11 6-7 6-8 6-9 6-11 7-3 7-4 7-5 8-3 8-5 8-6 9-12 9-13 9-14 10-12 10-13 10-14 11-12 11-13 11-14 13-16",
+        "source": "in December there was an announcement that British Columbia would be withdrawing from CEMA .",
+        "sureAlign": "0-0 1-1 6-10 7-6 8-4 12-15 13-17 13-18 13-19 13-20 13-21 13-22 13-23 14-24",
+        "target": "en décembre , la Colombie - Britannique a fait savoir que elle allait se retirer de le Office canadien de commercialisation de les oeufs ."
+    },
+    {
+        "id": "0053",
+        "name": "Hansards.english-french.0053",
+        "possibleAlign": "0-16 0-17 0-18 0-19 0-20 0-21 1-16 1-17 1-18 1-19 1-20 1-21 2-16 2-17 2-18 2-19 2-20 2-21 3-16 3-17 3-18 3-19 3-20 3-21 4-16 4-17 4-18 4-19 4-20 4-21 5-16 5-17 5-18 5-19 5-20 5-21 6-16 6-17 6-18 6-19 6-20 6-21 7-16 7-17 7-18 7-19 7-20 7-21 9-3 10-2 10-3 11-4 12-6 13-6 15-9 15-10 15-11 15-12 16-9 16-11 16-12",
+        "source": "they have also given rise to considerable opposition by hon. members in all parties on this side of the House .",
+        "sureAlign": "12-5 13-7 14-8 16-10 17-13 18-14 19-15 20-22",
+        "target": "bien de les députés de tous les partis de ce côté - ci de la Chambre se y sont également fortement opposés ."
+    },
+    {
+        "id": "0054",
+        "name": "Hansards.english-french.0054",
+        "possibleAlign": "0-0 0-1 0-2 0-3 1-0 1-1 1-2 1-3 2-0 2-2 3-5 6-8 6-9 6-10 6-11 7-8 7-9 7-10 7-11 8-8 8-9 8-10 8-11 9-8 9-9 9-10 9-11 10-4 10-10 10-11 11-12 12-13 13-14",
+        "source": "those are not the lines that one should be concerned about at this time .",
+        "sureAlign": "2-1 2-3 4-6 5-7 14-15",
+        "target": "ce ne est pas de ces lignes que il faudrait se inquiéter pour le instant ."
+    },
+    {
+        "id": "0055",
+        "name": "Hansards.english-french.0055",
+        "possibleAlign": "0-2 0-3 1-2 1-3 2-2 2-3 12-16 15-19 15-20 15-21 18-23",
+        "source": "i have allowed the hon. member two supplementaries and in fairness I think we should go to some other hon. members .",
+        "sureAlign": "3-0 4-1 5-1 6-5 7-7 8-8 9-10 10-12 11-14 12-15 13-17 14-18 16-22 18-24 19-25 20-25 21-26",
+        "target": "le député a pu poser deux questions supplémentaires et , en toute justice , je pense que nous devrions laisser la parole à de autres députés ."
+    },
+    {
+        "id": "0056",
+        "name": "Hansards.english-french.0056",
+        "possibleAlign": "3-3 4-5 4-7",
+        "source": "i think that is good .",
+        "sureAlign": "0-0 1-1 2-2 3-4 4-6 5-8",
+        "target": "je crois que ce est une bonne chose ."
+    },
+    {
+        "id": "0057",
+        "name": "Hansards.english-french.0057",
+        "possibleAlign": "3-3 3-4 3-5 3-6 3-7 3-8 4-3 4-4 4-5 4-6 4-7 5-3 5-4 5-6 5-7 5-8 6-9 6-10 7-9 7-10 7-11 8-12 8-13 8-14 8-15 9-11 9-12 9-13 9-14 9-15 10-12 10-13 10-14 11-12 11-13 11-14 11-15 12-12 12-13 12-14 12-15 13-12 13-13 13-14 13-15 21-3 21-4 21-5 21-6 21-7 21-8 22-3 22-4 22-5 22-6 22-7 22-8 23-3 23-4 23-5 23-6 23-7 23-8 24-3 24-4 24-5 24-6 24-7 24-8",
+        "source": "i think that the time taken in handling routine applications for changes of facilities along a pipeline , for example , has been too long .",
+        "sureAlign": "0-0 1-1 2-2 4-8 5-5 10-15 11-16 12-17 13-18 14-19 14-20 14-21 15-22 16-23 16-24 16-25 17-26 18-27 19-28 25-29",
+        "target": "je crois que il a pris trop de temps à étudier de les demandes courantes de changements de installations le long de un pipe - line , par exemple ."
+    },
+    {
+        "id": "0058",
+        "name": "Hansards.english-french.0058",
+        "possibleAlign": "3-2 3-3 4-4 5-4 7-5 7-9 8-6 10-10 13-12 13-13 13-14 13-15 14-12 14-13 14-14 14-15 15-12 15-13 15-14 15-15 16-12 16-13 16-14 16-15",
+        "source": "he is the minister who is responsible for science and technology , and he does not know .",
+        "sureAlign": "2-0 3-1 6-4 8-7 9-8 10-11 17-16",
+        "target": "le ministre de État chargé de les Sciences et de la Technologie devrait connaître son rayon ."
+    },
+    {
+        "id": "0059",
+        "name": "Hansards.english-french.0059",
+        "possibleAlign": "0-0 0-1 0-2 0-3 0-4 1-0 1-1 1-2 1-3 1-5 2-0 2-2 2-3 2-4 2-5 8-11",
+        "source": "federal government carpenters get $ 6.42 in Toronto and $ 5.23 in Halifax and Moncton .",
+        "sureAlign": "0-5 1-4 2-1 3-6 4-7 5-8 6-9 7-10 9-12 10-13 11-14 12-15 13-16 14-17 15-18",
+        "target": "les menuisiers de le gouvernement fédéral touchent $ 6.42 à Toronto contre $ 5.23 à Halifax et Moncton ."
+    },
+    {
+        "id": "0060",
+        "name": "Hansards.english-french.0060",
+        "possibleAlign": "0-3 0-4 0-5 1-3 1-4 1-5 2-3 2-4 2-5 4-1 6-2 8-2 8-3 10-8 13-11 19-19",
+        "source": "for the record I would like to refer to a press release which followed the federal - provincial conference of attorneys general in October , 1975 .",
+        "sureAlign": "3-0 5-1 7-2 9-6 10-9 11-7 12-10 13-12 14-13 15-15 16-16 17-17 18-14 19-18 20-20 21-21 22-22 23-23 25-24 26-25",
+        "target": "je aimerais mentionner à ce sujet un communiqué de presse qui a suivi la conférence fédérale - provinciale de les procureurs généraux de octobre 1975 ."
+    },
+    {
+        "id": "0061",
+        "name": "Hansards.english-french.0061",
+        "possibleAlign": "1-1 4-5 4-6 4-7 5-5 5-6 5-7 6-5 6-6 6-7 7-5 7-6 7-7 8-5 8-6 8-7 9-5 9-6",
+        "source": "Mr. Speaker , I rise on a point of order .",
+        "sureAlign": "0-0 1-2 2-3 3-4 9-7 10-8",
+        "target": "monsieur le Orateur , je invoque le Règlement ."
+    },
+    {
+        "id": "0062",
+        "name": "Hansards.english-french.0062",
+        "possibleAlign": "1-2 7-8 7-9 8-9 8-10",
+        "source": "i think the railroad term is « demand loading » .",
+        "sureAlign": "0-0 1-1 2-3 3-5 4-4 5-6 6-7 7-10 8-8 9-11 10-12",
+        "target": "je pense que le terme ferroviaire est « chargement sur demande » ."
+    },
+    {
+        "id": "0063",
+        "name": "Hansards.english-french.0063",
+        "possibleAlign": "1-1 2-1 3-5 3-6 3-7 4-4 4-5 4-6 4-7 5-4 5-5 5-6 5-7 6-4 6-5 6-6 6-7 7-9 7-10 7-11 8-12 8-13 8-14 9-12 9-13",
+        "source": "i will come to the cost of boats these days .",
+        "sureAlign": "0-0 3-4 9-14 10-15",
+        "target": "je reviendrai plus tard à ce que coûte un bâtiment de pêche de nos jours ."
+    },
+    {
+        "id": "0064",
+        "name": "Hansards.english-french.0064",
+        "possibleAlign": "1-1 1-3 1-4 2-4 4-7 4-8 4-9 4-11 4-12 4-13 5-7 5-8 5-9 5-10 5-11 5-12 6-7 6-8 6-10 6-11 6-12 6-13 8-11 9-16 9-17 9-18 16-25 16-26 16-27 17-25 17-26 17-27 18-25 18-26 18-27",
+        "source": "in most provinces , general noise regulations have been implemented , the main principle of which is as follows :",
+        "sureAlign": "0-0 1-2 2-5 3-6 4-10 5-13 6-9 7-14 8-15 10-19 11-22 12-24 13-23 14-21 15-21 19-28",
+        "target": "dans la plupart de les provinces , de les règlements généraux sur le bruit ont été mis en application , et dont le principe général se énonce ainsi :"
+    },
+    {
+        "id": "0065",
+        "name": "Hansards.english-french.0065",
+        "possibleAlign": "0-0 0-1",
+        "source": "agreed .",
+        "sureAlign": "1-2",
+        "target": "de accord ."
+    },
+    {
+        "id": "0066",
+        "name": "Hansards.english-french.0066",
+        "possibleAlign": "3-3 4-6 4-7 4-8 5-5 5-6 5-7 5-8 6-5 6-6 6-7 6-8 7-5 7-6 7-7 7-8 8-5 8-6 8-7 8-8 9-5 9-6 9-7 9-8 10-5 10-6 10-7 10-8 16-13 17-15 18-15 19-15 19-17 19-18 19-19 20-15 20-17 20-18 20-19 21-16 21-17 21-18 21-19 22-17 22-18 22-19 23-22 24-22 27-25",
+        "source": "after all , energy is used by people throughout the nation , and the government might well consider an approach using the incentive to which I have referred .",
+        "sureAlign": "0-0 1-1 2-2 3-4 4-5 12-9 13-10 14-11 15-12 16-14 18-16 25-23 26-24 28-26",
+        "target": "après tout , le énergie est un bien collectif et le gouvernement pourrait fort bien adopter une politique de encouragement comme celle dont je ai parlé ."
+    },
+    {
+        "id": "0067",
+        "name": "Hansards.english-french.0067",
+        "possibleAlign": "",
+        "source": "6 .",
+        "sureAlign": "0-0 1-1",
+        "target": "6 ."
+    },
+    {
+        "id": "0068",
+        "name": "Hansards.english-french.0068",
+        "possibleAlign": "8-8 11-12 12-12 12-13 14-15 15-15 17-18 17-19 17-20 17-21 18-19 18-20 18-21 19-19 19-20 20-18 20-19 20-20 20-21 21-22 21-23 21-24 22-22 22-23 22-24 23-22 23-23 24-22 24-23 24-24 25-22 25-23 25-24 26-22 26-23 26-24",
+        "source": "i will be glad , when we have time , to sit down with hon. members and work this matter out on a productive and prospective basis .",
+        "sureAlign": "0-0 1-1 2-1 3-2 4-3 5-4 6-5 7-7 8-9 9-10 10-11 11-13 13-14 14-16 15-16 16-17 19-21 23-24 27-25",
+        "target": "je serai heureux , quand nous en aurons le temps , de me asseoir avec les député et de explorer la question de façon productive ."
+    },
+    {
+        "id": "0069",
+        "name": "Hansards.english-french.0069",
+        "possibleAlign": "0-2 0-3 3-2 3-3 4-4 4-5 4-6 8-9 11-12 12-13 12-14 12-15 12-16 13-13 13-14 13-15 13-16 14-13 14-14 14-15 14-16 22-24 22-25 22-26 23-23 23-24 23-26 24-23 24-24 24-25 25-23 25-24 25-25 25-26 26-23 26-24 26-25 26-26",
+        "source": "will the minister take action to clear up any difficulties because of the absolute need for placing the orders now , and not some months from now ?",
+        "sureAlign": "1-0 2-1 5-7 6-8 7-8 9-10 10-12 15-17 16-18 17-19 18-20 19-21 21-22 22-23 23-25 24-26 27-27",
+        "target": "le ministre prendra il de les mesures pour résoudre les difficultés , car il est absolument nécessaire de passer les commandes maintenant et non dans quelques mois ?"
+    },
+    {
+        "id": "0070",
+        "name": "Hansards.english-french.0070",
+        "possibleAlign": "1-1 7-7 7-8 10-1 10-10 10-11 11-12 12-14 13-14 14-1 14-10 14-11 15-1 15-10 15-11 16-1 16-10 16-11",
+        "source": "it will spur the construction of new fishing boats and cause new processing facilities to be built .",
+        "sureAlign": "0-0 2-1 3-2 4-3 5-4 6-5 8-6 9-9 11-13 17-15",
+        "target": "cela encouragera la construction de nouvelles embarcations de pêche et la création de nouvelles conserveries ."
+    },
+    {
+        "id": "0071",
+        "name": "Hansards.english-french.0071",
+        "possibleAlign": "0-0 0-1 0-2 0-3 0-4 0-5 0-6 1-0 1-1 1-2 1-3 1-4 1-5 1-6 2-0 2-1 2-2 2-3 2-4 2-5 2-6 3-0 3-1 3-2 3-3 3-4 3-5 7-11 7-12 7-13 8-14",
+        "source": "there are many things I could say about Bill C - 19 .",
+        "sureAlign": "3-6 4-8 5-9 6-10 8-15 9-16 10-17 11-18 12-19",
+        "target": "il y a bien de les choses que je pourrais dire à propos de le bill C - 19 ."
+    },
+    {
+        "id": "0072",
+        "name": "Hansards.english-french.0072",
+        "possibleAlign": "1-1 2-1 3-1 4-1 8-7 8-8 9-7 9-8 10-3 10-4 11-2 11-3 11-4 14-13 18-22",
+        "source": "i am going to say something a bit later on about that because I think it is essential to the kind of debate we are having this afternoon .",
+        "sureAlign": "0-0 6-5 7-6 10-2 12-10 13-11 14-12 15-19 16-20 17-21 26-24 27-25 27-26 27-27 28-28",
+        "target": "je reviendrai sur cet aspect un peu plus tard , car je pense que ce est un élément que il est essentiel de souligner cet après - midi ."
+    },
+    {
+        "id": "0073",
+        "name": "Hansards.english-french.0073",
+        "possibleAlign": "0-0 10-11 10-12 10-13 10-14 11-15 11-16 12-15 12-16 13-15 13-16",
+        "source": "companies find that the rules are complicated , cumbersome and changing all the time .",
+        "sureAlign": "0-1 1-2 2-3 3-4 4-5 5-6 6-7 7-8 8-9 9-10 14-17",
+        "target": "les sociétés trouvent que les règlements sont compliqués , lourds et que on les modifie sans cesse ."
+    },
+    {
+        "id": "0074",
+        "name": "Hansards.english-french.0074",
+        "possibleAlign": "1-1 5-6 5-7 5-8 6-6 6-7 6-8 9-11 10-11 13-14 13-16 13-17 13-18 14-14 14-15 14-16 14-17 15-15 15-16 15-17 15-18",
+        "source": "Mr. Speaker , my question is for the minister in charge of the Canadian Wheat Board .",
+        "sureAlign": "0-0 1-2 2-3 3-4 4-5 7-9 8-10 11-12 12-13 13-15 14-18 15-14 16-19",
+        "target": "monsieur le Orateur , ma question se adresse à le ministre chargé de la Commission canadienne de le blé ."
+    },
+    {
+        "id": "0075",
+        "name": "Hansards.english-french.0075",
+        "possibleAlign": "4-9 4-10 5-9 5-12 13-5 13-6 14-5 14-6 15-5 15-6",
+        "source": "i understand that a rate of at least 70 per cent per annum is being contemplated .",
+        "sureAlign": "0-1 1-2 3-7 4-8 8-13 9-14 10-14 11-11 12-11 16-15",
+        "target": "si je comprends bien , on prévoit un taux de intérêts annuel de 70 % ."
+    },
+    {
+        "id": "0076",
+        "name": "Hansards.english-french.0076",
+        "possibleAlign": "0-0 0-1 1-0 1-1 2-0 2-1 3-0 3-1 4-0 4-1 4-2 4-3 4-4 4-5 5-2 5-3 5-4 5-5 6-2 6-3 6-5 7-2 7-3 7-4",
+        "source": "it is our hope to make a decision this week .",
+        "sureAlign": "6-4 7-5 8-6 9-7 10-8",
+        "target": "nous souhaitons parvenir à une décision cette semaine ."
+    },
+    {
+        "id": "0077",
+        "name": "Hansards.english-french.0077",
+        "possibleAlign": "",
+        "source": "we accept your view .",
+        "sureAlign": "0-0 1-1 2-2 3-3 4-4",
+        "target": "nous acceptons votre opinion ."
+    },
+    {
+        "id": "0078",
+        "name": "Hansards.english-french.0078",
+        "possibleAlign": "0-0 0-1 0-2 1-0 1-1 1-2 2-7 3-8 4-3 4-4 4-5 4-6 5-3 5-4 5-5 5-6",
+        "source": "they fought an election on that position .",
+        "sureAlign": "7-9",
+        "target": "il fit campagne là - dessus pendant les élections ."
+    },
+    {
+        "id": "0079",
+        "name": "Hansards.english-french.0079",
+        "possibleAlign": "",
+        "source": "12 .",
+        "sureAlign": "0-0 1-1",
+        "target": "12 ."
+    },
+    {
+        "id": "0080",
+        "name": "Hansards.english-french.0080",
+        "possibleAlign": "1-1 3-4 3-5 3-6 3-8 3-9 3-10 3-11 4-4 4-5 4-6 4-7 4-8 4-9 4-10 5-4 5-5 5-6 5-7 5-8 5-9 5-10 5-11 6-4 6-5 6-6 6-7 6-8 6-9 6-10 6-11 9-13 9-15 11-15 14-18 14-19 14-20 14-21 14-22 15-18 15-19 15-20 15-21 15-22 16-18 16-19 16-20 16-21 16-22 17-18 17-19 17-20 17-21 17-22",
+        "source": "Mr. Speaker , I say to that : what a cruel hoax , because a hoax it is .",
+        "sureAlign": "0-0 1-2 2-3 3-7 4-11 7-12 8-13 10-14 12-16 13-17 18-23",
+        "target": "monsieur le Orateur , voici ce que je ai à en dire : quelle cruelle comédie , car ce est jouer la comédie ."
+    },
+    {
+        "id": "0081",
+        "name": "Hansards.english-french.0081",
+        "possibleAlign": "1-1 4-5 7-7 7-8 7-9 8-5",
+        "source": "Mr. Speaker , we will try to stick to that suggestion .",
+        "sureAlign": "0-0 1-2 2-3 3-4 5-5 6-6 8-10 9-11 10-12 11-13",
+        "target": "monsieur le Orateur , nous essaierons de nous en tenir à cette suggestion ."
+    },
+    {
+        "id": "0082",
+        "name": "Hansards.english-french.0082",
+        "possibleAlign": "12-10 12-11 12-12 13-10 13-11 13-12 14-10 14-11 14-12 15-14 15-15 16-16 16-17 17-14 17-17 17-18 18-19 18-20 18-21 19-19 19-21 20-19 20-20",
+        "source": "1 . ( a ) $ 98,355 . ( b ) They are distributed through major post offices across the country .",
+        "sureAlign": "0-0 1-1 3-2 4-3 5-4 6-5 7-6 9-7 10-8 11-9 16-18 17-16 19-20 20-21 21-22",
+        "target": "1 . a ) $ 98,355 . b ) Ils sont disponibles dans tous les grands bureaux de poste de le pays ."
+    },
+    {
+        "id": "0083",
+        "name": "Hansards.english-french.0083",
+        "possibleAlign": "0-6 0-7 0-8 1-10 1-11 1-12 2-9 2-10 2-11 2-12 3-9 3-10 3-11 3-12 4-9 4-10 4-11 4-12 5-0 5-1 5-2 5-3 5-4 6-0 6-1 6-2 6-3 6-4 7-0 7-1 7-2 7-3 7-4 8-0 8-1 8-2 8-3 11-16 11-17 11-18 11-19 11-21 11-22 11-23 11-24 11-25 11-26 11-27 11-28 12-16 12-17 12-18 12-19 12-20 12-21 12-22 12-23 12-24 12-25 12-26 12-27 12-28 13-16 13-17 13-18 13-19 13-20 13-21 13-22 13-23 13-24 13-25 13-26 13-27 13-28 14-16 14-17 14-18 14-19 14-20 14-21 14-22 14-23 14-24 14-25 14-26 14-27 14-28 15-16 15-17 15-18 15-19 15-20 15-21 15-22 15-23 15-24 15-25 15-26 15-27 15-28 16-16 16-17 16-18 16-19 16-20 16-21 16-22 16-23 16-24 16-25 16-26 16-27 16-28 17-16 17-17 17-18 17-19 17-20 17-21 17-22 17-23 17-24 17-25 17-26 17-27 17-28 18-16 18-17 18-18 18-19 18-20 18-21 18-22 18-23 18-24 18-25 18-26 18-27 18-28",
+        "source": "crime is a national problem according to our constitution , while law enforcement is a provincial and local responsibility .",
+        "sureAlign": "1-9 8-4 9-5 10-14 10-15 11-20 19-29",
+        "target": "en vertu de la constitution , le activité criminelle est de compétence fédérale , tandis que le application de la loi relève de les provinces et de les municipalités ."
+    },
+    {
+        "id": "0084",
+        "name": "Hansards.english-french.0084",
+        "possibleAlign": "1-1 3-2 3-3 3-4 3-5 4-2 4-3 4-4 4-5 5-2 5-3 5-4 5-5 6-2 6-3 6-4 6-5 7-2 7-3 7-4 7-5 8-3 8-4 8-5 12-5 13-9 14-11 17-13 19-18 19-19 19-20 19-21 19-22 20-17 20-19 20-20 20-21 20-22 21-17 21-18 21-19 21-20 21-21 21-22 22-17 22-18 22-19 22-20 22-21 22-22 23-17 23-18 23-19 23-20 23-21 23-22 24-17 24-18 24-19 24-20 24-21 24-22 25-17 25-18 25-19 25-20 25-21 25-22",
+        "source": "i submit that what I say is pertinent to the bill , to moneys being spent on medicare and the manner in which they are spent .",
+        "sureAlign": "0-0 2-2 9-6 10-7 11-8 13-10 15-11 16-12 17-14 17-15 18-16 19-17 20-18 26-23",
+        "target": "je prétends que mes remarques concernant le bill , le argent dépensé pour les soins médicaux et la façon dont on le dépense ."
+    },
+    {
+        "id": "0085",
+        "name": "Hansards.english-french.0085",
+        "possibleAlign": "3-4 3-5 3-6 3-7 6-10 6-11 6-12 7-10 7-11 7-12 8-10 8-11 8-12 9-10 9-11 9-12 10-10 10-11 10-12 11-10 11-11 11-12 12-10 12-11 12-12",
+        "source": "a few words about this disease might help to put things into perspective .",
+        "sureAlign": "0-2 1-2 2-3 4-8 5-9 13-13",
+        "target": "de abord quelques mots à le sujet de cette maladie pour vous situer ."
+    },
+    {
+        "id": "0086",
+        "name": "Hansards.english-french.0086",
+        "possibleAlign": "1-2 1-3 1-4 1-5 1-6 2-2 2-3 2-4 2-5 2-6 3-2 3-3 3-4 3-5 7-12 7-15 10-16 11-14",
+        "source": "fortunately they are fewer this year , more reasonable and responsible , more conciliatory .",
+        "sureAlign": "0-0 3-6 4-7 5-8 6-9 8-13 12-18 13-19 14-20",
+        "target": "heureusement , il y en a moins cette année , elles sont plus raisonnables , plus sérieuses et plus conciliantes ."
+    },
+    {
+        "id": "0087",
+        "name": "Hansards.english-french.0087",
+        "possibleAlign": "1-1 1-2 1-3 2-4 2-5 2-6 2-7 2-8 2-9 2-10 3-4 3-5 3-6 3-7 3-8 3-9 3-10 4-4 4-5 4-6 4-7 4-8 4-9 4-10 5-4 5-5 5-6 5-7 5-8 5-10 6-4 6-5 6-6 6-7 6-8 6-9",
+        "source": "this bill has been before the House for more than a year .",
+        "sureAlign": "0-0 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16",
+        "target": "ce projet de loi est à le étude à la Chambre depuis plus de un an ."
+    },
+    {
+        "id": "0088",
+        "name": "Hansards.english-french.0088",
+        "possibleAlign": "0-2 0-3 0-4 0-5 1-6 5-10 5-11 5-12 6-10 6-11 6-12 7-10 7-11 7-12 11-17 11-18 11-19 12-16 12-18 12-19 12-20",
+        "source": "retired December 30 , 1975 following completion of 34 years of public service .",
+        "sureAlign": "1-8 2-7 4-9 8-13 9-14 10-15 11-20 12-17 13-21",
+        "target": "cette personne a pris sa retraite le 30 décembre 1975 après avoir complété 34 années à le service de le public ."
+    },
+    {
+        "id": "0089",
+        "name": "Hansards.english-french.0089",
+        "possibleAlign": "0-0 0-1 0-2 0-3 0-4 0-5 0-6 0-7 1-0 1-1 1-2 1-3 1-4 1-5 1-6 1-7 2-0 2-1 2-2 2-3 2-4 2-5 2-6 2-7 3-0 3-1 3-2 3-3 3-4 3-5 3-6 3-7 4-0 4-1 4-2 4-3 4-4 4-5 4-6 4-7 5-0 5-1 5-2 5-3 5-4 5-5 5-6 5-7 6-0 6-1 6-2 6-3 6-5 6-6 6-7 11-16 11-17 12-17 12-18 13-12 13-13 13-14 14-12 14-13 14-14 15-12 15-13 15-14 16-10 16-11 16-12 16-13 16-14 17-11 18-10 18-11 23-23",
+        "source": "passage of the hon. member 's motion would mean that the content requirements are spelled out in the statute and we could debate them .",
+        "sureAlign": "6-4 7-8 8-8 9-9 10-15 11-18 12-16 17-10 19-19 20-21 21-22 22-24 24-25",
+        "target": "le adoption de la motion de le député signifierait que la loi préciserait en détail les exigences de contenu et que nous pourrions les discuter ."
+    },
+    {
+        "id": "0090",
+        "name": "Hansards.english-french.0090",
+        "possibleAlign": "1-1 1-2 1-3 1-4 1-6 2-1 2-2 2-3 2-4 2-6 4-1 4-2 4-3 4-6 5-6 5-7 5-8 5-9 5-10 5-11 5-12 5-13 5-14 6-6 6-7 6-8 6-9 6-10 6-11 6-12 6-13 6-14 7-6 7-7 7-8 7-9 7-10 7-11 7-12 7-13 7-14",
+        "source": "this does not necessarily indicate non - compliance on the part of the parties .",
+        "sureAlign": "0-0 3-5 4-4 8-15 9-16 10-17 11-18 12-19 13-20 14-21",
+        "target": "cela ne veut pas dire nécessairement que il y a défaut de se y conformer de la part de les parties ."
+    },
+    {
+        "id": "0091",
+        "name": "Hansards.english-french.0091",
+        "possibleAlign": "0-1 0-2 0-3 0-4 0-5 1-0 1-1 1-2 1-3 1-4 1-5 2-0 2-2 2-3 2-5 3-0 3-1 3-2 3-3 3-4 3-5 4-6 4-7 4-8 4-9 4-10 4-11 5-6 5-7 5-8 5-9 5-10 5-11 6-6 6-7 6-8 6-9 6-10 6-11 7-6 7-7 7-8 7-9 7-10 7-11 8-12 8-13 8-14 9-12 9-13 9-14 10-12 10-13 10-14 11-2 11-12 11-13 11-14 12-12 12-13 12-14 13-12 13-13 13-14",
+        "source": "i was not asking for a detailed explanation as to what he was doing .",
+        "sureAlign": "0-0 2-1 2-4 14-15",
+        "target": "je ne lui ai pas demandé de me fournir de telles explications sur ces activités ."
+    },
+    {
+        "id": "0092",
+        "name": "Hansards.english-french.0092",
+        "possibleAlign": "1-1 1-2 1-3 2-4 3-4 4-5 4-10 4-11 4-12 5-5 5-6 7-6 7-7 7-8 8-6 8-7 8-8 9-6 9-8 10-6 10-7 10-8 15-10 15-11 15-12",
+        "source": "how can so much be asked , on the one hand , and so little answered on the other ?",
+        "sureAlign": "0-0 9-7 12-9 13-13 14-14 16-15 17-16 18-17 19-18",
+        "target": "comment peut - on tant demander de une part et être assuré de si peu de le autre ?"
+    },
+    {
+        "id": "0093",
+        "name": "Hansards.english-french.0093",
+        "possibleAlign": "0-5 1-5 2-5 5-3 6-3 6-4 7-3 7-4 8-3 8-4 10-6 10-7 12-14 14-14 15-13 16-14 18-17 19-18 19-19 19-20 20-18 20-20 21-18 21-19",
+        "source": "as a result , perhaps he will bring in different legislation which will not lay him open to the charge of censorship .",
+        "sureAlign": "4-0 4-1 4-2 5-4 9-10 11-11 13-12 13-15 17-16 20-19 21-20 22-21",
+        "target": "peut - être proposera il ensuite une mesure nouvelle et différente qui ne le exposera pas à les accusations de censure ."
+    },
+    {
+        "id": "0094",
+        "name": "Hansards.english-french.0094",
+        "possibleAlign": "8-8 8-9 8-10 8-12 9-8 9-9 9-10 9-11 9-12 13-16 13-17 14-16 14-17 15-0 15-18 15-19 15-20 15-21 15-22 16-0 16-18 16-19 16-20 16-21 16-22 17-0 17-18 17-19 17-20 17-21 17-22 18-0 18-18 18-19 18-20 18-21 18-22 19-0 19-18 19-19 19-20 19-21 19-22 20-0 20-18 20-19 20-20 20-21 20-22 21-0 21-18 21-19 21-20 21-21 21-22 22-0 22-18 22-19 22-20 22-21 22-22 23-0 23-18 23-19 23-20 23-21 23-22",
+        "source": "either they do their job properly , or you must get the power so that you can be sure that they do it properly .",
+        "sureAlign": "0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-11 10-13 11-14 12-15 24-23",
+        "target": "ou ils font leur travail convenablement , ou ce est à vous de obtenir le pouvoir nécessaire pour les amener à le faire ."
+    },
+    {
+        "id": "0095",
+        "name": "Hansards.english-french.0095",
+        "possibleAlign": "0-1 1-1 2-1 3-1 4-0 4-1 4-2 5-0 5-1 5-2",
+        "source": "in our national capital we have all the strains and all the divergencies of our country .",
+        "sureAlign": "6-5 7-6 8-7 9-8 10-9 11-10 12-11 13-12 14-13 15-14 16-15",
+        "target": "on y retrouve en effet toutes les tensions et toutes les divergences de notre pays ."
+    },
+    {
+        "id": "0096",
+        "name": "Hansards.english-french.0096",
+        "possibleAlign": "0-0 8-9 10-12",
+        "source": "hon. John N . Turner ( Minister of Finance ) moved :",
+        "sureAlign": "0-1 1-2 2-3 3-4 4-5 5-6 6-7 7-8 8-10 9-11 11-13",
+        "target": "le hon. John N . Turner ( ministre de les Finances ) propose :"
+    },
+    {
+        "id": "0097",
+        "name": "Hansards.english-french.0097",
+        "possibleAlign": "0-0 0-1 0-2 0-3 0-4 0-5 1-0 1-1 1-2 1-3 1-4 1-5 2-0 2-1 2-2 2-3 2-4 2-5 3-0 3-1 3-2 3-3 3-4 3-5 3-6 3-7 4-0 4-1 4-2 4-3 4-4 4-5 4-6 4-7 5-0 5-1 5-2 5-3 5-4 5-5 5-6 5-7 6-2 6-3 6-4 6-5 6-6 7-2 7-3 7-4 7-5 7-6 7-7 9-15 9-16 10-15 10-16 11-15 11-16 13-17 13-19 13-20 14-15 14-16 14-17 15-15 15-16 15-17 18-9 19-12 19-13 19-14 20-12 20-13 20-14 21-12 21-13 21-14 22-21",
+        "source": "as much as I hate to admit it , there has been good legislation brought in by Liberal governments in this country --",
+        "sureAlign": "6-7 8-8 12-18 17-11 18-10",
+        "target": "bien que il me coûte de le admettre , les gouvernements libéraux à le Canada ont présenté de bonnes mesures législatives ..."
+    },
+    {
+        "id": "0098",
+        "name": "Hansards.english-french.0098",
+        "possibleAlign": "0-0 0-1 0-2 1-3 4-5 6-6 8-10 9-11 10-10 11-10 12-13 12-16 15-17 15-18 15-19 15-20 16-17 16-18 16-19",
+        "source": "as the member for the neighbouring riding I am well aware of his persistence and hard work .",
+        "sureAlign": "2-3 3-4 5-7 7-9 9-12 13-14 14-15 16-20 17-21",
+        "target": "en tant que député de une circonscription voisine , je connais fort bien sa persévérance et son acharnement à le travail ."
+    },
+    {
+        "id": "0099",
+        "name": "Hansards.english-french.0099",
+        "possibleAlign": "",
+        "source": "where is the AIB ?",
+        "sureAlign": "0-0 1-1 2-2 3-3 4-4",
+        "target": "où est la CAI ?"
+    },
+    {
+        "id": "0100",
+        "name": "Hansards.english-french.0100",
+        "possibleAlign": "0-3 0-4 0-5 1-2 1-4 1-5 2-2 2-3 2-4 2-5 5-8 11-11 12-12 12-14 13-12 13-13 13-14 14-12 14-13 17-17 21-22 27-27 28-27",
+        "source": "at the moment , that fact , unfortunately , is seen in two - thirds of the country not as an opportunity , but as a barrier to opportunity .",
+        "sureAlign": "0-2 1-3 3-6 4-7 7-0 8-1 9-9 10-10 12-13 14-14 15-15 16-16 18-18 18-19 19-20 20-21 22-23 23-24 24-25 25-26 26-27 29-28",
+        "target": "malheureusement , à le heure actuelle , cette réalité est perçue par les deux tiers de la population non pas comme un avantage , mais comme un obstacle ."
+    }
+]

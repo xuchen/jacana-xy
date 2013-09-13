@@ -55,6 +55,7 @@ abstract class AbstractFlatAligner extends Loggable {
     var devFilename:String = null
     var testFilename:String = null
     var alignFilename:String = null
+    var alignFilename2:String = null
     var outputFilename:String = null
     var modelFilename:String = null
     var initialModelFilename:String = null
@@ -87,6 +88,7 @@ abstract class AbstractFlatAligner extends Loggable {
 	    options.addOption("e", "test", true, "test file")
 	    options.addOption("d", "dev", true, "dev file to report F1 on while training")
 	    options.addOption("a", "align", true, "file to align (with tab-separated sentences)")
+	    options.addOption("b", "align2", true, "target file to align (-align contains src file, just like those accepted by GIZA++)")
 	    options.addOption("o", "output", true, "aligned output")
 	    options.addOption("m", "model", true, "model file \n" +
 	    		"(train: save to, test: read from, both: save to, dev: append '.iterXX' and save to)")
@@ -119,6 +121,7 @@ abstract class AbstractFlatAligner extends Loggable {
 	    exitIfNotExist(testFilename)
 	    alignFilename = line.getOptionValue("align", null)
 	    exitIfNotExist(alignFilename)
+	    alignFilename2 = line.getOptionValue("align2", null)
 	    outputFilename = line.getOptionValue("output", "/tmp/aligned.txt")
 	    //exitIfNotExist(outputFilename)
 	    modelFilename = line.getOptionValue("model", "/tmp/aligner.model")
@@ -215,12 +218,13 @@ abstract class AbstractFlatAligner extends Loggable {
      * Given an input file, output the aligned results to a .json file
      * 
      */
-    def decode(inputFile: String, outputFname: String): Int = {
+    def decode(inputFile: String, outputFname: String, inputFile2: String): Int = {
         
        	var writer: PrintWriter = null
         if (outputFname != null) {
         	writer = new PrintWriter(new File(outputFname))
-        	writer.write("[\n")
+       	    if (inputFile2 == null)
+       	    	writer.write("[\n")
         }
        	
       	var counter = 0
@@ -329,6 +333,8 @@ abstract class AbstractFlatAligner extends Loggable {
        	
         	val f = Source.fromFile(inputFile)
         	val lineIterator = f.getLines()
+        	val f2 = if (inputFile2!=null) Source.fromFile(inputFile2) else null
+        	val lineIterator2 = if (f2!= null) f2.getLines() else null
         	//val total = lineIterator.length
             while (lineIterator.hasNext) {
                 counter += 1
@@ -336,6 +342,9 @@ abstract class AbstractFlatAligner extends Loggable {
                     println(inputFile + "\t" + counter.toString)
                 }
                 var line = lineIterator.next()
+                var line2 = if (lineIterator2!= null) lineIterator2.next() else null
+                if (line2 != null)
+                	line = line + "\t" + line2
                 //println(line)
                 val sents = line.trim().split("\\t")
                 var sent1 = sents(0); var sent2 = sents(1)
@@ -352,13 +361,17 @@ abstract class AbstractFlatAligner extends Loggable {
                         writer.print(record.toJSON(counter.toString))
                         if (lineIterator.hasNext)
                           writer.print("\t,\n")
+                      } else if (f2 != null) {
+                        record.toJSON()
+                        writer.print(record.pair.getDashedAlign() + "\n")
                       } else
                         writer.print(record.toMsrFormat)
                     }
                 }
             }
         	if (writer != null) {
-            	writer.write("]\n")
+        	    if (f2 == null)
+        	    	writer.write("]\n")
         	    writer.close()
                 println("aligned output written to "+outputFname)
         	}

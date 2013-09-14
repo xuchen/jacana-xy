@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
  
 <project name="jacana" default="one-jar" basedir=".">
-  <description>jacana-align build script</description>
+  <description>jacana-xy build script</description>
  
   <!-- targets -->
   <target name="build" depends="package" description="Build whole project"/>
@@ -122,7 +122,7 @@
   </target>
 
     <target name="one-jar" depends="compile">
-        <jar destfile="${build-lib.dir}/${ant.project.name}-align.jar">
+        <jar destfile="${build-lib.dir}/${ant.project.name}-xy.jar">
             <manifest>
                 <attribute name="Main-Class" value="org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"/>
                 <attribute name="Rsrc-Main-Class" value="edu.jhu.jacana.align.aligner.FlatAligner"/>

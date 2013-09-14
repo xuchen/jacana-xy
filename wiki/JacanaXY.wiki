@@ -1,0 +1,95 @@
+# jacana-xy
+
+= Introduction =
+
+jacana-xy is a token-based word aligner for machine translation, adapted from the original English-English word aligner [http://code.google.com/p/jacana/ jacana-align] described in the following paper:
+
+[http://cs.jhu.edu/~xuchen/paper/yao-jacana-wordalign-acl2013.pdf A Lightweight and High Performance Monolingual Word Aligner].
+Xuchen Yao, Benjamin Van Durme, Chris Callison-Burch and Peter Clark.
+Proceedings of ACL 2013, short papers.
+
+http://www.cs.jhu.edu/~xuchen/packages/jacana-xy-fr-en.png
+
+= Build =
+
+jacana-xy is written in a mixture of Java and Scala. If you build from ant, you have to set up the environmental variables JAVA_HOME and SCALA_HOME. In my system, I have:
+
+`export JAVA_HOME=/usr/lib/jvm/java-6-sun-1.6.0.26`
+
+`export SCALA_HOME=/home/xuchen/Downloads/scala-2.10.2`
+
+Then type:
+
+`ant`
+
+`build/lib/jacana-xy.jar` will be built for you.
+
+If you build from Eclipse, first install [http://scala-ide.org/ scala-ide], then import the whole jacana folder as a Scala project. Eclipse should find the `.project` file and set up the project automatically for you.
+
+= Demo =
+
+`scripts-align/runDemoServer.sh` shows up the web demo. Direct your browser to http://localhost:8080/ and you should be able to align some sentences.
+
+Note: To make jacana-xy know where to look for resource files, pass the property JACANA_HOME with Java when you run it:
+
+`java -DJACANA_HOME=/path/to/jacana -cp jacana-xy.jar ......`
+
+= Browser =
+
+You can also browse one or two alignment files (`*`.json) with *firefox* opening `src/web/AlignmentBrowser.html`:
+
+http://www.cs.jhu.edu/~xuchen/packages/jacana-align-browser.png
+
+
+Note 1: due to strict security setting for accessing local files, Chrome/IE won't work.
+
+Note 2: the input `*`.json files have to be in the same folder with `AlignmentBrowser.html`.
+
+= Align =
+
+`scripts-align/alignFile.sh` aligns tab-separated sentence files and outputs the output to a .json file that's accepted by the browser:
+
+`java -DJACANA_HOME=../ -jar ../build/lib/jacana-xy.jar -src fr -tgt en -m fr-en.model -a s.txt -o s.json`
+
+`scripts-align/alignFile.sh` takes GIZA++-style input files (one file containing the source sentences, and the other file the target sentences) and outputs to one .align file with dashed alignment indices (e.g. "1-2 0-4"):
+
+`java -DJACANA_HOME=../ -jar ../build/lib/jacana-xy.jar -m fr-en.model -src fr -tgt en -a s1.txt -b s2.txt -o s.align`
+
+= Training =
+
+`java -DJACANA_HOME=../ -jar ../build/lib/jacana-xy.jar -r train.json -d dev.json -t test.json -m /tmp/align.model`
+
+The aligner then would train on `train.json`, and report F1 values on `dev.json` for every 10 iterations, when the stopping criterion has reached, it will test on `test.json`. 
+
+For every 10 iterations, a model file is saved to (in this example) `/tmp/align.model.iter_XX.F1_XX.X`. Normally what I do is to select the one with the best F1 on `dev.json`, then run a final test on `test.json`:
+
+`java -DJACANA_HOME=../ -jar ../build/lib/jacana-xy.jar -t test.json -m /tmp/align.model.iter_XX.F1_XX.X`
+
+In this case since the training data is missing, the aligner assumes it's a test job, then reads model file still from the `-m` option, and test on `test.json`.
+
+All the json files are in a format like the following (also accepted by the browser for display):
+
+{{{
+[
+    {
+        "id": "0008",
+        "name": "Hansards.english-french.0008",
+        "possibleAlign": "0-0 1-0 2-0",
+        "source": "hear , hear !",
+        "sureAlign": "3-1",
+        "target": "bravo !"
+    },
+    {
+        "id": "0009",
+        "name": "Hansards.english-french.0009",
+        "possibleAlign": "1-1 5-6 5-7 6-6 6-7 10-13 11-13",
+        "source": "Mr. Speaker , my question is directed to the Minister of Transport .",
+        "sureAlign": "0-0 1-2 2-3 3-4 4-5 7-8 8-9 9-10 10-12 11-14 12-15",
+        "target": "monsieur le Orateur , ma question se adresse à le ministre chargé de les transports ."
+    }
+]
+}}}
+
+Where `possibleAlign` is not used.
+
+The stopping criterion is to run up to 300 iterations or when the objective difference between two iterations is less than 0.001, whichever happens first. Currently they are hard-coded. If you need to be flexible on this, send me an email!

@@ -25,7 +25,6 @@ object FrEnDictionaryFeature extends AlignFeature {
             val srcTokens = pair.srcTokens.slice(i, i+srcSpan).mkString(" ")
            	val tgtTokens = pair.tgtTokens.slice(j, j+tgtSpan).mkString(" ")
            	
-			// PPDB is too noisy, we have to add these phrase check, otherwise F1's are really low.
 			if (WiktionaryMultilingual.exists(srcTokens, tgtTokens)) {
        	    	ins.addFeature("InWiktionary", NONE_STATE, currState, 1.0, srcSpan, featureAlphabet) 
 			}
